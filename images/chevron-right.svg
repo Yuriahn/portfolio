@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="14px" viewBox="0 0 30 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-right" transform="translate(15.000000, 7.000000) rotate(-180.000000) translate(-15.000000, -7.000000) ">
+            <g id="Group-35">
+                <polygon id="Fill-3" fill="#606266" points="6.91160494 13.4706173 2.55795385e-13 6.7054321 6.91358025 -3.12638804e-13 7.73871605 0.850765432 1.6982716 6.70928395 7.74064198 12.6237037"></polygon>
+                <polygon id="Fill-3" fill="#FFFFFF" points="12.8666667 7.35028935 29.4592593 7.35028935 29.4592593 6.16510417 12.8666667 6.16510417"></polygon>
+                <polygon id="Fill-3" fill="#606266" points="1.16666667 7.35028935 17.7592593 7.35028935 17.7592593 6.16510417 1.16666667 6.16510417"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

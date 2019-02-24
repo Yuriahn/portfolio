@@ -63,9 +63,9 @@ body {
 }
 
 
-.contents-l1 img:hover {
+/* .contents-l1 img:hover {
 	content: url("../images/P_milkui_featured_hover.svg")
-}
+} */
 
 .contents-l1 h2 {
 	font-size: 28px;
@@ -363,9 +363,9 @@ body {
 	text-decoration: none;
 }
 
-.contents-r5 img:hover {
+/* .contents-r5 img:hover {
 	content: url("../images/P_nana6_featured.jpg")
-}
+} */
 
 .contents-r5 h2 {
 	font-size: 28px;
@@ -439,4 +439,11 @@ body {
 	float: right;
 	margin-right: 5%;
 	display: inline-block;
+}
+
+
+#career h1 {
+	margin-top: 50px;
+	margin-left: 10%;
+	font-size: 36px;
 }

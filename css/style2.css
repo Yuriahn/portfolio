@@ -110,13 +110,24 @@ body {
 }
 
 .move-btn > .prev {
-    color:orange; 
-    margin-left:50px; 
+    color: #606266; 
+    margin-left:5%;
+    margin-top: 100px;
+    margin-bottom: 100px; 
     float: left; 
 }
 
+.prev:hover {
+    color: #303133;
+}
+
 .move-btn > .next {
-    color:orange; 
-    margin-right:50px; 
+    color:#606266; 
+    margin-right:5%; 
+    margin-top: 100px;
+    margin-bottom: 100px; 
     float: right; 
+}
+.next:hover {
+    color: #303133;
 }

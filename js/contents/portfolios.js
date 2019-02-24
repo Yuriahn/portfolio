@@ -1,4 +1,4 @@
-var portfolios_order = ['bt', 'alice', 'mvr', 'hs', 'fi', '9', 'nana6', 'se', 'dove', 'sb']
+var portfolios_order = ['bt', 'alice', 'mtui', 'mvr', 'hs', 'fi', '9', 'nana6', 'se', 'sb', 'dove']
 
 var portfolios_info = {
     'abc': {
@@ -9,8 +9,8 @@ var portfolios_info = {
 
         'tt_obj' : "책의 맛",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>UX Design:</b> name<br><b>UI Design:</b> name<br><b>Front-end programming:</b> name<br><b>Back-end programming:</b> name",
+        'dsc_obj': "<b>Description</b><br>책 문장수집 서비스",
+        'nm_obj': "<b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
 
         'img_obj_1': {
             'src': './images/P_BT_wireframe.jpg',
@@ -54,8 +54,8 @@ var portfolios_info = {
 
         'tt_obj' : "Alice in Dataland",
         'rl_obj': "Illustration<br>2018",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Design:</b> name",
+        'dsc_obj': "<b>Description</b><br>데이터 시각화 서비스를 위한 일러스트레이션",
+        'nm_obj': "<b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
             'src': './images/P_alice_01.svg',
@@ -66,41 +66,88 @@ var portfolios_info = {
         },
         'img_obj_3': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
         'img_obj_4': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
         'img_obj_5': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
         'img_obj_6': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
         'img_obj_7': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
         'img_obj_8': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
         'img_obj_9': {
             'src': '',
-            'style': 'display: none;'
+            'style': 'display: none;',
         },
     },
+
+    'mtui': {
+        'top-img': "background-image: url('./images/P_mtui_top.svg')",
+
+        'tt_obj' : "Magic table",
+        'rl_obj': "UI Library<br>2018",
+        'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여<br>광고분석 솔루션인 매직테이블을 디자인하였다.",
+        'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
+
+        'img_obj_1': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_2': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_3': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_4': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_5': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_6': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_7': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_8': {
+            'src': '',
+            'style': 'display: none;',
+        },
+        'img_obj_9': {
+            'src': '',
+            'style': 'display: none;',
+        },
+    },
+
 
     'mvr': {
         'top-img': "background-image: url('./images/P_MVR_top.svg')",
 
         'tt_obj' : "Mooovr",
         'rl_obj': "Web, Branding<br>2017<br>",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Design:</b> name<br><br><a href='http://mooovr.com/' target='_blank'>View Website</a>",
+        'dsc_obj': "<b>Description</b><br>Mooovr Inc. is VR company based in South Korea found in 2011 as one of the first VR companies. It started as production studio making VR contents as new media. Mooovr developed VR camera solution which is equipped with 5 mirrorless cameras and Samyang Mooovrig lenses, making it possible to shoot all 360 degree view, maintaining convenience and robustness.",
+        'nm_obj': "<b>Design:</b> Yuri Ahn<br><br><a style='color: #303133'; href='http://mooovr.com/' target='_blank'>View Website</a>",
 
         'img_obj_1': {
             'src': './images/P_MVR_01.jpg',
@@ -140,8 +187,8 @@ var portfolios_info = {
 
         'tt_obj' : "Hair schedule",
         'rl_obj': "UX/UI design, Branding<br>2015",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'dsc_obj': "<b>Description</b><br>헤어샵 단골 디자이너와 고객과의 시간예약 어플리케이션",
+        'nm_obj': "<b>Planning:</b> Sinjoo Yoon<br><b>UX/UI Design:</b> Yuri Ahn",
 
         'img_obj_1': {
             'src': './images/P_HS_01.svg',
@@ -168,7 +215,7 @@ var portfolios_info = {
         },
         'img_obj_8': {
             'src': './images/P_HS_08.svg',
-            'style': 'margin-bottom:200px;'
+            // 'style': 'margin-bottom:200px;',
         },
         'img_obj_9': {
             'src': '',
@@ -181,8 +228,8 @@ var portfolios_info = {
 
         'tt_obj' : "Study on Flexible identity",
         'rl_obj': "Infographic<br>2015",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'dsc_obj': "<b>Description</b><br>논문주제인 ‘미디어 상호작용 유형을 통한 플렉서블 아이덴티티 경험요소’ 를 인포그래픽으로 표현하였다. ‘플렉서블 아이덴티티는 상호작용 유형에 의해 사용자에게 어떤 경험을 가져오는가?’를 연구문제로 설정하여 사용자 경험 활용의 방향을 제시하였다. ‘상호작용 유형 매트릭스’를 구성하여 웹 미디어 사례를 분석한 결과 ‘감각적 경험’에서는 ‘시각적 자극’을, ‘정서적 경험’에서는 ‘자아관여’를, ‘사고적 경험’에서는 ‘지적욕구’를, ‘행동적 경험’에서는 ‘반응’을, ‘관계적 경험’에서는 ‘참여’를 경험요소로 활용해야 한다는 점을 증명하였다.",
+        'nm_obj': "<b>Planning:</b> Yuri Ahn<br><b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
             'src': './images/P_FI.jpg',
@@ -226,9 +273,9 @@ var portfolios_info = {
         'top-img': "background-image: url('./images/P_9_top.jpg')",
 
         'tt_obj' : "9 o'clock",
-        'rl_obj': "Branding<br>2012<br><img src='./images/P_9_reddot.svg'>",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'rl_obj': "Branding<br>2010<br><img src='./images/P_9_reddot.svg'>",
+        'dsc_obj': "<b>Description</b><br>9 o’clock 브랜드는 AM 9시부터 PM 9시까지의 영업시간에 맞춘 디자인 시스템이 특징이다.",
+        'nm_obj': "<b>Planning:</b> Yuri Ahn, Kiyoung Jung<br><b>Design:</b> Yuri Ahn, Kiyoung Jung",
 
         'img_obj_1': {
             'src': './images/P_9_01.jpg',
@@ -268,9 +315,9 @@ var portfolios_info = {
         'top-img': "background-image: url('./images/P_nana6_top.jpg')",
 
         'tt_obj' : "Nana6 project",
-        'rl_obj': "Editorial design<br>2012",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'rl_obj': "Editorial design<br>2010",
+        'dsc_obj': "<b>Description</b><br>한국 디자인계의 정체성을 탐구하기 위한 프로젝트로 11명의 작가와 디자이너가 초대되었고, 이 책은 그 만남의 기록이다.",
+        'nm_obj': "<b>Planning:</b> Sangsoo Ahn, Sangdo Kim, Haecheon Park<br><b>Design:</b> Yuri Ahn, Liling Hwang, Hyewon Min, Hayan Park, Minyoung Yu<br><b>Art director:</b> Chansin Park<br><b>Editor:</b> Guhong Min",
 
         'img_obj_1': {
             'src': './images/P_nana6_01.jpg',
@@ -308,8 +355,8 @@ var portfolios_info = {
 
         'tt_obj' : "Save earth",
         'rl_obj': "Visual artwork, Branding<br>2009",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'dsc_obj': "<b>Description</b><br>Green Campaign",
+        'nm_obj': "<b>Planning:</b> Kiyoung Jung, Yuri Ahn<br><b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
             'src': './images/P_SE_logo.svg',
@@ -353,8 +400,8 @@ var portfolios_info = {
 
         'tt_obj' : "Dove world",
         'rl_obj': "Visual artwork<br>2007",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'dsc_obj': "<b>Description</b><br>Dove world",
+        'nm_obj': "<b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
             // 'src': './images/P_dove_featured.jpg',
@@ -400,9 +447,9 @@ var portfolios_info = {
         'top-img': "background-image: url('./images/P_SB_top.svg')",
 
         'tt_obj' : "Suabow",
-        'rl_obj': "Branding, Character<br>2007",
-        'dsc_obj': "<b>Description</b><br>description",
-        'nm_obj': "<b>Planning:</b> name<br><b>Design:</b> name",
+        'rl_obj': "Branding, Character<br>2008",
+        'dsc_obj': "<b>Description</b><br>Suabow는 수(水)+Rainbow의 합성어로 비타민 워터 브랜드이다. 'W'에서 연계된 다양한 캐릭터들은 제품의 효능을 대변한다.",
+        'nm_obj': "<b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
             'src': './images/P_SB_01.svg',
