@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="828.568px" height="410.236px" viewBox="0 0 828.568 410.236" enable-background="new 0 0 828.568 410.236"
+	 xml:space="preserve">
+<g>
+	<rect x="0.105" fill="#FFFFFF" width="828.567" height="410.236"/>
+	<g>
+		
+			<text transform="matrix(0.9729 0 0 1 279.6064 31.6929)" fill="#626366" font-family="'TitilliumText22L-Regular'" font-size="16">UX Strategy</text>
+	</g>
+	<g>
+		<text transform="matrix(0.9729 0 0 1 479.7275 30.7798)"><tspan x="0" y="0" fill="#626366" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="12">- 일상 속 컨텍스트를 고려한 필수앱</tspan><tspan x="0" y="22" fill="#626366" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="12">- 과거경험이 있는 단골디자이너와의 빠른예약</tspan><tspan x="0" y="44" fill="#626366" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="12">- 앱에서 바로 예약함으로써 예약절차 최소화</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0.9729 0 0 1 0 31.6924)" fill="#626366" font-family="'TitilliumText22L-Regular'" font-size="16">Define</text>
+	</g>
+	<rect x="278.607" y="10.204" fill="#A2A4A6" width="542.235" height="0.537"/>
+	<path fill="#EEEEEF" stroke="#7DC8ED" stroke-width="4.1617" stroke-miterlimit="10" d="M390.017,213.693
+		c0,30.076-24.385,54.46-54.463,54.46s-54.461-24.385-54.461-54.46c0-30.081,24.383-54.462,54.461-54.462
+		S390.017,183.612,390.017,213.693z"/>
+	
+		<text transform="matrix(1 0 0 1 314.1465 218.3169)" fill="#807FB6" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="16">유용성</text>
+	<path fill="#EEEEEF" stroke="#7DC8ED" stroke-width="4.1617" stroke-miterlimit="10" d="M709.73,213.693
+		c0,30.076-24.385,54.46-54.463,54.46s-54.461-24.385-54.461-54.46c0-30.081,24.383-54.462,54.461-54.462
+		S709.73,183.612,709.73,213.693z"/>
+	<g>
+		
+			<text transform="matrix(1 0 0 1 640.9961 218.3169)" fill="#807FB6" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="16">심플</text>
+	</g>
+	<path fill="#EEEEEF" stroke="#7DC8ED" stroke-width="4.1617" stroke-miterlimit="10" d="M549.875,213.693
+		c0,30.076-24.387,54.46-54.463,54.46c-30.079,0-54.461-24.385-54.461-54.46c0-30.081,24.383-54.462,54.461-54.462
+		C525.488,159.231,549.875,183.612,549.875,213.693z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 479.3481 208.3169)"><tspan x="0" y="0" fill="#807FB6" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="16">빠른 </tspan><tspan x="-12.48" y="20" fill="#807FB6" font-family="'NanumBarunGothicOTF-KSCpc-EUC-H'" font-size="16">목표달성</tspan></text>
+	</g>
+	<rect x="0.285" y="10.204" fill="#A4A4A4" width="178.986" height="1.955"/>
+</g>
+</svg>

@@ -1,0 +1,441 @@
+body {
+	margin: 0;
+}
+
+/* Header영역 */
+
+.header {
+	width: 100%;
+	height: 80px;
+	position: fixed;
+	top: 0;
+}
+
+.nav img {
+	height: 52px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+/* .nav img:hover {
+	content: url("../images/P_PI_fullname.svg")
+} */
+
+.menu img {
+	width: 32px;
+	position: fixed;
+	top: 40%;
+	left: 50px;
+	cursor: pointer;
+}
+
+/* Container 영역 */
+
+.container {
+	/* margin-top: 80px; */
+	height: 4400px;
+}
+
+.container > .left {
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+.container > .right {
+	float: right;
+	width: 50%;
+	height: 100%;
+}
+
+.container a {
+	cursor: pointer;
+}
+
+.contents-l1 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-l1 img {
+	margin-top: 420px;
+	width: 100%;
+}
+
+
+.contents-l1 img:hover {
+	content: url("../images/P_milkui_featured_hover.svg")
+}
+
+.contents-l1 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-l1 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-l2 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-l2 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+
+.contents-l2 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-l2 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-l3 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-l3 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-l3 a {
+	text-decoration: none;
+}
+
+.contents-l3 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-l3 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-l4 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-l4 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-l4 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-l4 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+.contents-l5 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-l5 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-l5 a {
+	text-decoration: none;
+}
+
+.contents-l5 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-l5 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+.contents-l6 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-l6 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-l6 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-l6 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+.contents-r1 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-r1 img {
+	margin-top: 0;
+	width: 100%;
+}
+
+.contents-r1 a {
+	text-decoration: none;
+}
+
+.contents-r1 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-r1 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-r2 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-r2 img {
+	margin-top: 100px;
+	width: 100%;
+}
+
+.contents-r2 a {
+	text-decoration: none;
+}
+
+.contents-r2 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 10px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-r2 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-r3 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-r3 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-r3 a {
+	text-decoration: none;
+}
+
+.contents-r3 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-r3 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-r4 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-r4 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-r4 a {
+	text-decoration: none;
+}
+
+.contents-r4 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-r4 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-r5 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-r5 img {
+	margin-top: 180px;
+	width: 100%;
+}
+
+.contents-r5 a {
+	text-decoration: none;
+}
+
+.contents-r5 img:hover {
+	content: url("../images/P_nana6_featured.jpg")
+}
+
+.contents-r5 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-r5 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+.contents-r6 {
+	width: 72%;
+	margin: 0 auto;
+}
+
+.contents-r6 img {
+	margin-top: 150px;
+	width: 100%;
+}
+
+.contents-r6 a {
+	text-decoration: none;
+}
+
+.contents-r6 h2 {
+	font-size: 28px;
+	color: #303133;
+	margin-top: 30px;
+	/* letter-spacing: -0.7px; */
+	/* display: inline-block; */
+	margin-bottom: 10px;
+}
+
+.contents-r6 span {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 0;
+	color: grey; opacity: 0.7;
+}
+
+
+/* Footer 영역 */
+
+.footer {
+	height: 100px;
+}
+
+.name img {
+	width: 90px;
+	margin-left: 5%;
+}
+
+.info {
+	width: 50%;
+	font-size: 16px;
+	line-height: 20px;
+	margin-left: 6%;
+	display: inline-block;
+}
+
+.copyright {
+	float: right;
+	margin-right: 5%;
+	display: inline-block;
+}

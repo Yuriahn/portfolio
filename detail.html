@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">   
+    <title>Detail</title>
+
+    <link rel="stylesheet" href="./css/style2.css">
+
+    <script src="./js/lib/jquery-3.3.1.min.js"></script>
+    <script src="./js/contents/portfolios.js"></script>
+	<script>
+        function setPageDetail(imgObj) {
+            $('.top').attr('style', imgObj['top-img']);
+
+            $('#tt').html(imgObj['tt_obj'])
+            $('#rl').html(imgObj['rl_obj'])
+            $('#dsc').html(imgObj['dsc_obj'])
+            $('#nm').html(imgObj['nm_obj'])
+
+            $('#img_01').attr('src', imgObj['img_obj_1']['src']);
+            $('#img_01').attr('style', imgObj['img_obj_1']['style']);
+
+            $('#img_02').attr('src', imgObj['img_obj_2']['src']);
+            $('#img_02').attr('style', imgObj['img_obj_2']['style']);
+
+            $('#img_03').attr('src', imgObj['img_obj_3']['src']);
+            $('#img_03').attr('style', imgObj['img_obj_3']['style']);
+
+            $('#img_04').attr('src', imgObj['img_obj_4']['src']);
+            $('#img_04').attr('style', imgObj['img_obj_4']['style']);
+
+            $('#img_05').attr('src', imgObj['img_obj_5']['src']);
+            $('#img_05').attr('style', imgObj['img_obj_5']['style']);
+
+            $('#img_06').attr('src', imgObj['img_obj_6']['src']);
+            $('#img_06').attr('style', imgObj['img_obj_6']['style']);
+
+            $('#img_07').attr('src', imgObj['img_obj_7']['src']);
+            $('#img_07').attr('style', imgObj['img_obj_7']['style']);
+
+            $('#img_08').attr('src', imgObj['img_obj_8']['src']);
+            $('#img_08').attr('style', imgObj['img_obj_8']['style']);
+
+            $('#img_09').attr('src', imgObj['img_obj_9']['src']);
+            $('#img_09').attr('style', imgObj['img_obj_9']['style']);
+        }
+
+		$(function() {
+            var scrollEvent = function(event) {
+				// 현재의 window화면의 스크롤 위치를 가져옴
+				var height = $(this).scrollTop()
+
+				if (height === 0) {
+					$('#home_btn_img').attr('src', './images/P_PI_fullname.svg');
+				} else if(height !== 0) {
+					$('#home_btn_img').attr('src', './images/P_PI.svg');
+				}
+			}
+
+			$(window).scroll(scrollEvent)
+
+            var _loc = location.href.split("?");
+            var _code = _loc[1].split("=");
+            var portfolio_code = _code[1]
+
+            var idx = portfolios_order.indexOf(portfolio_code);
+            if (idx === 0) {
+                $('#prev').html('');
+            }   else if (idx === portfolios_order.length - 1) {
+                $('#next').html('');
+            }
+
+            var imgObj = portfolios_info[portfolio_code];
+
+            setPageDetail(imgObj)
+        })
+        
+        function moveDetail(action) {
+            var _loc = location.href.split("?");
+            var _code = _loc[1].split("=");
+            var portfolio_code = _code[1]
+
+            var idx = portfolios_order.indexOf(portfolio_code);
+            var moveIdx = 0;
+
+            if (action === 'prev') {
+                moveIdx = idx - 1;
+            } else {
+                moveIdx = idx + 1;
+            }
+
+            var move_code = portfolios_order[moveIdx];
+            var imgObj = portfolios_info[move_code];
+
+            location.href = "./detail.html?code=" + move_code;
+        }
+	</script>
+</head>
+<body>
+    <div class="header" id="header">
+        <div class="nav">
+            <a href="./index.html"><img id="home_btn_img" src="./images/P_PI_fullname.svg"></a>
+        </div>
+        <!-- <div class="menu">
+            <a href="" onclick="clickMenu()"><img src="./images/icon-menu.svg"></a>
+        </div> -->
+    </div>
+    <div class="top"></div>
+    <div class="title">
+        <h1 id="tt">Title</h1>
+        <p id="rl">role<br>yyyy</p>
+    </div>
+    <div class="desc">
+         <p id="dsc"><b>Description</b><br>description</p>
+         <p id="nm"><b>Plannin:</b>name<br><b>Design:</b>name</p>
+     </div>
+     <div class="img-contents">
+         <img id="img_01" src="./images/404.png">
+         <img id="img_02" src="./images/404.png">
+         <img id="img_03" src="./images/404.png">
+         <img id="img_04" src="./images/404.png">
+         <img id="img_05" src="./images/404.png">
+         <img id="img_06" src="./images/404.png">
+         <img id="img_07" src="./images/404.png">
+         <img id="img_08" src="./images/404.png">
+         <img id="img_09" src="./images/404.png">
+     </div>
+     <div class="move-btn">
+         <span class="prev" id="prev"><a class="prev_btn" onclick="moveDetail('prev')">Previous</a></span>
+         <span class="next" id="next"><a onclick="moveDetail('next')">Next</a></span>
+         <br />
+    </div>
+     <div class="footer">
+        <span class="name">
+            <img src="./images/P_PI_fullname.svg">
+        </span>
+        <span class="info">
+            <p>elisabet517@naver.com<br>+82 10 4820 4100</p>
+        </span>
+        <span class="copyright">
+            <p>2019 ⓒ ahnyuri</p>
+        </span>
+    </div>
+</body>
+</html>
