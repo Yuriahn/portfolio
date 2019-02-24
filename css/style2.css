@@ -1,5 +1,6 @@
 body {
-	margin: 0;
+    margin: 0;
+
 }
 
 
@@ -37,7 +38,7 @@ body {
 .title {
     float: left;
     margin-left: 10%;
-    position: inline-block;
+    display: inline-block;
     margin-bottom: 100px;
 }
 
@@ -62,7 +63,7 @@ body {
     font-size: 16px;
     line-height: 26px;
     color: #606266;
-    position: inline-block;
+    display: inline-block;
 }
 
 .img-contents img {
@@ -76,7 +77,8 @@ body {
 /* Footer 영역 */
 
 .footer {
-	height: 100px;
+    width: 100%;
+    height: 100px;
 }
 
 .name img {
@@ -96,6 +98,11 @@ body {
 	float: right;
 	margin-right: 5%;
 	display: inline-block;
+}
+
+.move-btn {
+    width: 100%;
+    display: inline-block;
 }
 
 .move-btn a {

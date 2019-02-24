@@ -418,7 +418,8 @@ body {
 /* Footer 영역 */
 
 .footer {
-	height: 100px;
+	width: 100%;
+    height: 100px;
 }
 
 .name img {
