@@ -272,7 +272,7 @@ var portfolios_info = {
     'fi': {
         'top-img': "background-image: url('./images/P_FI_top.jpg')",
 
-        'tt_obj' : "Study on Flexible identity",
+        'tt_obj' : "The Experience elements<br>of F.I.",
         'rl_obj': "Infographic<br>2015",
         'dsc_obj': "<b>Description</b><br>논문주제인 ‘미디어 상호작용 유형을 통한 플렉서블 아이덴티티 경험요소’ 를 인포그래픽으로 표현하였다. ‘플렉서블 아이덴티티는 상호작용 유형에 의해 사용자에게 어떤 경험을 가져오는가?’를 연구문제로 설정하여 사용자 경험 활용의 방향을 제시하였다. ‘상호작용 유형 매트릭스’를 구성하여 웹 미디어 사례를 분석한 결과 ‘감각적 경험’에서는 ‘시각적 자극’을, ‘정서적 경험’에서는 ‘자아관여’를, ‘사고적 경험’에서는 ‘지적욕구’를, ‘행동적 경험’에서는 ‘반응’을, ‘관계적 경험’에서는 ‘참여’를 경험요소로 활용해야 한다는 점을 증명하였다.",
         'nm_obj': "<b>Planning:</b> Yuri Ahn<br><b>Design:</b> Yuri Ahn",
