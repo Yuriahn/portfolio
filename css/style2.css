@@ -1,8 +1,76 @@
-body {
-    margin: 0;
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Montserrat|Nixie+One|PT+Mono|Roboto+Mono|Roboto+Slab|Space+Mono');
 
+
+body {
+	margin: 0;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Cantarell', sans-serif;
+	font-family: 'PT Mono', monospace;
+	font-family: 'Space Mono', monospace;
+	font-family: 'Nixie One', cursive;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto Mono', monospace;
 }
 
+
+/* @import url('https://fonts.googleapis.com/css?family=ABeeZee|Armata|Cantarell|Merriweather+Sans|Montserrat|Nixie+One|PT+Mono|PT+Sans+Caption|Roboto+Mono|Roboto+Slab|Space+Mono');
+
+body {
+	margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'PT Mono', monospace;
+    font-family: 'Space Mono', monospace;
+    font-family: 'Nixie One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Cantarell', sans-serif;
+    font-family: 'Armata', sans-serif;
+} */
+
+/* @import url('https://fonts.googleapis.com/css?family=ABeeZee|Armata|Cantarell|Merriweather+Sans|Monda|Montserrat|Nixie+One|PT+Mono|PT+Sans+Caption|Roboto+Mono|Roboto+Slab|Source+Code+Pro|Space+Mono');
+
+body {
+	margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Space Mono', monospace;
+    font-family: 'Nixie One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Cantarell', sans-serif;
+    font-family: 'Armata', sans-serif;
+    font-family: 'PT Mono', monospace;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Monda', sans-serif;
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css?family=ABeeZee|Armata|Cantarell|Chivo|Merriweather+Sans|Monda|Montserrat|Nixie+One|PT+Mono|PT+Sans+Caption|Roboto+Mono|Roboto+Slab|Source+Code+Pro|Space+Mono|Varela');
+
+body {
+	margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Space Mono', monospace;
+    font-family: 'Nixie One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Cantarell', sans-serif;
+    font-family: 'Armata', sans-serif;
+    font-family: 'PT Mono', monospace;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Monda', sans-serif;
+    font-family: 'Chivo', sans-serif;
+    font-family: 'Varela', sans-serif;
+    letter-spacing: -0.5px;
+} */
 
 /* Header영역 */
 .header {

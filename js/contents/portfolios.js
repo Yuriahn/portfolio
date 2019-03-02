@@ -7,7 +7,7 @@ var portfolios_info = {
     'bt': {
         'top-img': "background-image: url('./images/P_BT_top.jpg')",
 
-        'tt_obj' : "책의 맛",
+        'tt_obj' : "Taste of Book",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
         'dsc_obj': "<b>Description</b><br>책 문장수집 서비스",
         'nm_obj': "<b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
