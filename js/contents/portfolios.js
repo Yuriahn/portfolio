@@ -1,4 +1,4 @@
-var portfolios_order = ['bt', 'alice', 'mtui', 'mvr', 'hs', 'fi', '9', 'nana6', 'se', 'sb', 'dove']
+var portfolios_order = ['bt', 'mu', 'alice', 'mtui', 'mvr', 'hs', 'fi', '9', 'nana6', 'se', 'sb', 'dove']
 
 var portfolios_info = {
     'abc': {
@@ -49,6 +49,52 @@ var portfolios_info = {
         },
     },
  
+    'mu': {
+        'top-img': "background-image: url('./images/P_mu_top.svg')",
+
+        'tt_obj' : "Milk ui",
+        'rl_obj': "UI library, Branding<br>2019",
+        'dsc_obj': "<b>Description</b><br>'Space', 'Perspective', 'Fill'을 키워드로 한 UI 라이브러리 ",
+        'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn<br><b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://woo-u.github.io/milkui/#/' target='_blank'>View UI Library</a>",
+        
+        'img_obj_1': {
+            'src': './images/P_mu_01.svg',
+            'style': 'margin-top: 0; width: 100%; margin-left: 0; margin-right: 0;'
+        },
+        'img_obj_2': {
+            'src': './images/P_mu_02.svg',
+            'style': 'margin-top: -5px; width: 100%; margin-left: 0; margin-right: 0;'
+        },
+        'img_obj_3': {
+            'src': './images/P_mu_03.svg',
+            'style': 'margin-top: -5px; width: 100%; margin-left: 0; margin-right: 0;'
+        },
+        'img_obj_4': {
+            'src': '',
+            'style': 'display: none;'
+        },
+        'img_obj_5': {
+            'src': '',
+            'style': 'display: none;'
+        },
+        'img_obj_6': {
+            'src': '',
+            'style': 'display: none;'
+        },
+        'img_obj_7': {
+            'src': '',
+            'style': 'display: none;'
+        },
+        'img_obj_8': {
+            'src': '',
+            'style': 'display: none;'
+        },
+        'img_obj_9': {
+            'src': '',
+            'style': 'display: none;'
+        },
+    },
+
     'alice': {
         'top-img': "background-image: url('./images/P_alice_top.svg')",
 
@@ -98,7 +144,7 @@ var portfolios_info = {
         'top-img': "background-image: url('./images/P_mtui_top.svg')",
 
         'tt_obj' : "Magic table",
-        'rl_obj': "UI Library<br>2018",
+        'rl_obj': "UI library, Product design<br>2018",
         'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여<br>광고분석 솔루션인 매직테이블을 디자인하였다.",
         'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
 
@@ -274,7 +320,7 @@ var portfolios_info = {
 
         'tt_obj' : "9 o'clock",
         'rl_obj': "Branding<br>2010<br><img src='./images/P_9_reddot.svg'>",
-        'dsc_obj': "<b>Description</b><br>9 o’clock 브랜드는 AM 9시부터 PM 9시까지의 영업시간에 맞춘 디자인 시스템이 특징이다.",
+        'dsc_obj': "<b>Description</b><br>9 o’clock 브랜드는 AM 9시부터 PM 9시까지의 영업시간에 맞춘<br>디자인 시스템이 특징이다.",
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Kiyoung Jung<br><b>Design:</b> Yuri Ahn, Kiyoung Jung",
 
         'img_obj_1': {
@@ -316,7 +362,7 @@ var portfolios_info = {
 
         'tt_obj' : "Nana6 project",
         'rl_obj': "Editorial design<br>2010",
-        'dsc_obj': "<b>Description</b><br>한국 디자인계의 정체성을 탐구하기 위한 프로젝트로 11명의 작가와 디자이너가 초대되었고, 이 책은 그 만남의 기록이다.",
+        'dsc_obj': "<b>Description</b><br>한국 디자인계의 정체성을 탐구하기 위한 프로젝트로 11명의 작가와<br>디자이너가 초대되었고, 이 책은 그 만남의 기록이다.",
         'nm_obj': "<b>Planning:</b> Sangsoo Ahn, Sangdo Kim, Haecheon Park<br><b>Design:</b> Yuri Ahn, Liling Hwang, Hyewon Min, Hayan Park, Minyoung Yu<br><b>Art director:</b> Chansin Park<br><b>Editor:</b> Guhong Min",
 
         'img_obj_1': {
@@ -448,7 +494,7 @@ var portfolios_info = {
 
         'tt_obj' : "Suabow",
         'rl_obj': "Branding, Character<br>2008",
-        'dsc_obj': "<b>Description</b><br>Suabow는 수(水)+Rainbow의 합성어로 비타민 워터 브랜드이다. 'W'에서 연계된 다양한 캐릭터들은 제품의 효능을 대변한다.",
+        'dsc_obj': "<b>Description</b><br>Suabow는 수(水)+Rainbow의 합성어로 비타민 워터 브랜드이다.<br>'W'에서 연계된 다양한 캐릭터들은 제품의 효능을 대변한다.",
         'nm_obj': "<b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {

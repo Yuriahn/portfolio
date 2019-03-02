@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="3011px" viewBox="0 0 1440 3011" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>P_mu_02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="P_mu_02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="3011"></rect>
+        <path d="M140,122.5 L1300,122.5" id="Line-Copy-7" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+        <text id="Buttons" font-family="NotoSans-Regular, Noto Sans" font-size="32" font-weight="normal" line-spacing="40" fill="#303133">
+            <tspan x="140" y="84">Buttons</tspan>
+        </text>
+        <text id="Colors" font-family="NotoSans-Regular, Noto Sans" font-size="28" font-weight="normal" fill="#303133">
+            <tspan x="140" y="209">Colors</tspan>
+        </text>
+        <text id="Sizing" font-family="NotoSans-Regular, Noto Sans" font-size="28" font-weight="normal" fill="#303133">
+            <tspan x="140" y="2164">Sizing</tspan>
+        </text>
+        <g id="Group" transform="translate(140.000000, 248.000000)">
+            <g id="img-btn-style-color-primary">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="586"></rect>
+                <text id="Default-/-Hover-/-Ac" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#606266">
+                    <tspan x="16" y="31">Default / Hover / Active / Disabled</tspan>
+                </text>
+                <g id="bx--btn--primary" transform="translate(173.000000, 101.000000)">
+                    <polygon id="Stroke-1" fill="#87634D" points="0 48 153 48 153 0 0 0"></polygon>
+                    <text id="Primary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#FFFFFF">
+                        <tspan x="16.3970718" y="29">Primary Bu</tspan>
+                        <tspan x="103.581072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="116.506928" y="29">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--primary:hover" transform="translate(173.000000, 213.000000)">
+                    <polygon id="Stroke-1" fill="#8F6D59" points="0 48 153 48 153 0 0 0"></polygon>
+                    <g id="Group-Copy" fill-rule="nonzero" stroke="#FFFFFF" stroke-linecap="square" stroke-width="2">
+                        <path d="M8,0 L8,40" id="Line-6"></path>
+                        <path d="M8.00264246,40 L0.43370864,47.6190257" id="Line-4"></path>
+                        <path d="M153,40 L8,40" id="Line"></path>
+                    </g>
+                    <text id="Primary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#FFFFFF">
+                        <tspan x="20.3970718" y="25">Primary Bu</tspan>
+                        <tspan x="107.581072" y="25" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="120.506928" y="25">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--primary:active" transform="translate(173.000000, 325.000000)">
+                    <polygon id="Stroke-1" fill="#76543E" points="0 48 153 48 153 0 0 0"></polygon>
+                    <text id="Primary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#FFFFFF">
+                        <tspan x="16.3970718" y="29">Primary Bu</tspan>
+                        <tspan x="103.581072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="116.506928" y="29">on</tspan>
+                    </text>
+                </g>
+                <g id="bx-btn--primary--disabled" transform="translate(173.000000, 437.000000)">
+                    <polygon id="Stroke-1" fill="#EBECF0" points="0 48 153 48 153 0 0 0"></polygon>
+                    <text id="Primary-Button" opacity="0.3" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#606266">
+                        <tspan x="16.3970718" y="29">Primary Bu</tspan>
+                        <tspan x="103.581072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="116.506928" y="29">on</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Default-Box-fill:-#8" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="524" y="31">Default</tspan>
+                <tspan x="576.052" y="31" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="53" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #87634D</tspan>
+                <tspan x="524" y="75" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #FFFFFF</tspan>
+                <tspan x="524" y="97" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="119">Hover</tspan>
+                <tspan x="565.972" y="119" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="141" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #8F6D59</tspan>
+                <tspan x="524" y="163" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #FFFFFF</tspan>
+                <tspan x="524" y="185" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #FFFFFF</tspan>
+                <tspan x="524" y="207" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="229">Active</tspan>
+                <tspan x="567.442" y="229" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="251" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #76543E</tspan>
+                <tspan x="524" y="273" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #FFFFFF</tspan>
+                <tspan x="524" y="295" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="317">Disabled</tspan>
+                <tspan x="584.312" y="317" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="339" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #EBECF0</tspan>
+                <tspan x="524" y="361" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266 opacity 30%</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-6" transform="translate(140.000000, 866.000000)">
+            <g id="img-btn-style-color-secondary">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="586"></rect>
+                <text id="Default-/-Hover-/-Ac" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#606266">
+                    <tspan x="16" y="31">Default / Hover / Active / Disabled</tspan>
+                </text>
+                <g id="bx--btn--secondary" transform="translate(164.000000, 101.000000)">
+                    <path d="M1,47 L171,47 L171,1 L1,1 L1,47 Z" id="Stroke-1" stroke="#87634D" stroke-width="2"></path>
+                    <text id="Secondary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#87634D">
+                        <tspan x="16.2570718" y="29">Secondary Bu</tspan>
+                        <tspan x="122.721072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="135.646928" y="29">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--secondary:hover" transform="translate(164.000000, 213.000000)">
+                    <path d="M1,47 L171,47 L171,1 L1,1 L1,47 Z" id="Stroke-1" stroke="#87634D" stroke-width="2"></path>
+                    <g id="Group-Copy" transform="translate(2.000000, 1.000000)" fill-rule="nonzero" stroke="#87634D" stroke-linecap="square" stroke-width="2">
+                        <path d="M6,0 L6,39" id="Line-6"></path>
+                        <path d="M6.00264246,39 L0.0518973214,45" id="Line-4"></path>
+                        <path d="M168.499023,39 L6,39" id="Line"></path>
+                    </g>
+                    <text id="Secondary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#87634D">
+                        <tspan x="20.2570718" y="25">Secondary Bu</tspan>
+                        <tspan x="126.721072" y="25" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="139.646928" y="25">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--secondary" transform="translate(164.000000, 325.000000)">
+                    <polygon id="Stroke-1" fill="#87634D" points="0 48 172 48 172 0 0 0"></polygon>
+                    <text id="Secondary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#FFFFFF">
+                        <tspan x="16.2570718" y="29">Secondary Bu</tspan>
+                        <tspan x="122.721072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="135.646928" y="29">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--secondary--disabled" transform="translate(164.000000, 437.000000)" opacity="0.3">
+                    <path d="M1,47 L171,47 L171,1 L1,1 L1,47 Z" id="Stroke-1" stroke="#606266" stroke-width="2"></path>
+                    <text id="Secondary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#606266">
+                        <tspan x="16.2570718" y="29">Secondary Bu</tspan>
+                        <tspan x="122.721072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="135.646928" y="29">on</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Default-Box-border:" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="524" y="31">Default</tspan>
+                <tspan x="576.052" y="31" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="53" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #87634D</tspan>
+                <tspan x="524" y="75" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #126AFB</tspan>
+                <tspan x="524" y="97" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="119">Hover</tspan>
+                <tspan x="565.972" y="119" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="141" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #87634D</tspan>
+                <tspan x="524" y="163" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #126AFB</tspan>
+                <tspan x="524" y="185" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="207">Active</tspan>
+                <tspan x="567.442" y="207" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="229" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #87634D</tspan>
+                <tspan x="524" y="251" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #FFFFFF</tspan>
+                <tspan x="524" y="273" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="295">Disabled</tspan>
+                <tspan x="584.312" y="295" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="317" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #606266 opacity 30%</tspan>
+                <tspan x="524" y="339" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266 opacity 30%</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-7" transform="translate(140.000000, 1484.000000)">
+            <g id="img-btn-style-color-subtle">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="586"></rect>
+                <text id="Default-/-Hover-/-Ac" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#606266">
+                    <tspan x="16" y="30">Default / Hover / Active / Disabled</tspan>
+                </text>
+                <g id="btn--subtle" transform="translate(226.000000, 113.000000)" fill="#606266" font-family="NotoSans-Regular, Noto Sans" font-size="16" font-weight="normal" line-spacing="24">
+                    <text id="Subtle">
+                        <tspan x="0.28" y="17">Subtle</tspan>
+                    </text>
+                </g>
+                <g id="btn--subtle:hover" transform="translate(226.000000, 225.000000)" fill="#87634D" font-family="NotoSans-Regular, Noto Sans" font-size="16" font-weight="normal" line-spacing="24">
+                    <text id="Subtle">
+                        <tspan x="0.28" y="17">Subtle</tspan>
+                    </text>
+                </g>
+                <g id="btn--subtle:active" transform="translate(226.000000, 337.000000)" fill="#76543E" font-family="NotoSans-Regular, Noto Sans" font-size="16" font-weight="normal" line-spacing="24">
+                    <text id="Subtle">
+                        <tspan x="0.28" y="17">Subtle</tspan>
+                    </text>
+                </g>
+                <g id="btn--subtle--disabled" transform="translate(226.000000, 449.000000)" fill="#606266" font-family="NotoSans-Regular, Noto Sans" font-size="16" font-weight="normal" line-spacing="24" opacity="0.3">
+                    <text id="Subtle">
+                        <tspan x="0.28" y="17">Subtle</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Default-Text-color:" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="524" y="30">Default</tspan>
+                <tspan x="576.052" y="30" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="52" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266</tspan>
+                <tspan x="524" y="74" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="96">Hover</tspan>
+                <tspan x="565.972" y="96" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="118" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #87634D</tspan>
+                <tspan x="524" y="140" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="162">Active</tspan>
+                <tspan x="567.442" y="162" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="184" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #76543E</tspan>
+                <tspan x="524" y="206" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="228">Disabled</tspan>
+                <tspan x="584.312" y="228" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="250" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266 opacity 30%</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-5" transform="translate(140.000000, 2198.000000)">
+            <g id="img-btn-style-sizing-medium">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="338"></rect>
+                <g id="bx--btn--secondary" transform="translate(162.000000, 198.000000)">
+                    <path d="M1,47 L171,47 L171,1 L1,1 L1,47 Z" id="Stroke-1" stroke="#87634D" stroke-width="2"></path>
+                    <text id="Secondary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#87634D">
+                        <tspan x="16.2570718" y="29">Secondary Bu</tspan>
+                        <tspan x="122.721072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="135.646928" y="29">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--primary" transform="translate(172.000000, 92.000000)">
+                    <polygon id="Stroke-1" fill="#87634D" points="0 48 153 48 153 0 0 0"></polygon>
+                    <text id="Primary-Button" font-family="NotoSans-SemiBold, Noto Sans" font-size="16" font-weight="500" line-spacing="24" fill="#FFFFFF">
+                        <tspan x="16.3970718" y="29">Primary Bu</tspan>
+                        <tspan x="103.581072" y="29" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="116.506928" y="29">on</tspan>
+                    </text>
+                </g>
+                <g id="guide" transform="translate(127.000000, 62.000000)">
+                    <g id="Group-2" transform="translate(117.000000, 36.000000) rotate(-90.000000) translate(-117.000000, -36.000000) translate(110.000000, -45.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M1.25,1 L1.25,161.5" id="Line-4"></path>
+                        <path d="M13.25,1 L13.25,161.5" id="Line-4-Copy"></path>
+                        <path d="M1.87727865,1 L13,1" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2-Copy-7" transform="translate(117.000000, 72.000000) rotate(-90.000000) translate(-117.000000, -72.000000) translate(110.000000, -9.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M1,1 L1,161.5" id="Line-4"></path>
+                        <path d="M13,1 L13,161.5" id="Line-4-Copy"></path>
+                        <path d="M2,1 L12,1" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2" transform="translate(45.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,1 L0.5,58" id="Line-4"></path>
+                        <path d="M16.5,1 L16.5,58" id="Line-4-Copy"></path>
+                        <path d="M1,1 L16,1" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2-Copy" transform="translate(180.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,1 L0.5,58" id="Line-4"></path>
+                        <path d="M16.5,1 L16.5,58" id="Line-4-Copy"></path>
+                        <path d="M1,1 L16,1" id="Line-5"></path>
+                    </g>
+                    <g id="Group" transform="translate(202.000000, 29.000000)" stroke="#F96580" stroke-linecap="square">
+                        <path d="M9,1 L9,49" id="Line-2"></path>
+                        <path d="M0.5,1 L8.5,1" id="Line-3"></path>
+                        <path d="M0.5,49 L8.5,49" id="Line-3-Copy"></path>
+                    </g>
+                    <text id="48px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                        <tspan x="219" y="61">48px</tspan>
+                    </text>
+                    <text id="16px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="39" y="13">16px</tspan>
+                    </text>
+                    <text id="16px-copy" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="175" y="13">16px</tspan>
+                    </text>
+                    <text id="12px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="0" y="43">12px</tspan>
+                    </text>
+                    <text id="12px-copy-2" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="0" y="79">12px</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Medium-size-Height:" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="522" y="47">Medium size</tspan>
+                <tspan x="609.528" y="47" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="522" y="69" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Height: 48px</tspan>
+                <tspan x="522" y="91" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Horizontal padding: 16px</tspan>
+                <tspan x="522" y="113" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Vertical padding: 12px</tspan>
+                <tspan x="522" y="135" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Minimum width: 100px</tspan>
+                <tspan x="522" y="157" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Font size: 16px</tspan>
+                <tspan x="522" y="179" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Line height: 24px </tspan>
+                <tspan x="522" y="201" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">border: 2px</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-8" transform="translate(140.000000, 2573.000000)">
+            <g id="img-btn-style-sizing-small">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="338"></rect>
+                <g id="bx--btn--secondary--small" transform="translate(189.000000, 193.000000)">
+                    <path d="M0.5,37.5 L126.5,37.5 L126.5,0.5 L0.5,0.5 L0.5,37.5 Z" id="Stroke-1" stroke="#87634D"></path>
+                    <text id="Secondary-Button" font-family="NotoSans-Medium, Noto Sans" font-size="12" font-weight="400" line-spacing="20" fill="#87634D">
+                        <tspan x="12.2450718" y="22">Secondary Bu</tspan>
+                        <tspan x="90.7610718" y="22" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="99.8869282" y="22">on</tspan>
+                    </text>
+                </g>
+                <g id="bx--btn--primary--small" transform="translate(194.000000, 107.000000)">
+                    <polygon id="Stroke-1" fill="#87634D" points="0 38 112 38 112 0 0 0"></polygon>
+                    <text id="Primary-Button" font-family="NotoSans-Medium, Noto Sans" font-size="12" font-weight="400" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="12.0230718" y="22">Primary Bu</tspan>
+                        <tspan x="75.9830718" y="22" letter-spacing="-0.0330718">tt</tspan>
+                        <tspan x="85.1089282" y="22">on</tspan>
+                    </text>
+                </g>
+                <g id="guide" transform="translate(156.000000, 79.000000)">
+                    <g id="Group-2" transform="translate(89.500000, 33.000000) rotate(-90.000000) translate(-89.500000, -33.000000) translate(84.500000, -27.500000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,1 L0.5,120.5" id="Line-4"></path>
+                        <path d="M9.5,0.501602223 L9.5,120.5" id="Line-4-Copy"></path>
+                        <path d="M0.494940882,0.5 L9.12272135,0.5" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2-Copy-3" transform="translate(89.500000, 61.000000) rotate(-90.000000) translate(-89.500000, -61.000000) translate(84.500000, 0.500000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,1 L0.5,120.5" id="Line-4"></path>
+                        <path d="M9.5,0.501602223 L9.5,120.5" id="Line-4-Copy"></path>
+                        <path d="M0.494940882,0.5 L9.12272135,0.5" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2" transform="translate(37.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M1,0.572591146 L1,45" id="Line-4"></path>
+                        <path d="M13,0.5 L13,45" id="Line-4-Copy"></path>
+                        <path d="M1,0.5 L13,0.5" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2-Copy-2" transform="translate(137.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M1,0.572591146 L1,45" id="Line-4"></path>
+                        <path d="M13,0.5 L13,45" id="Line-4-Copy"></path>
+                        <path d="M1,0.5 L13,0.5" id="Line-5"></path>
+                    </g>
+                    <g id="Group" transform="translate(155.000000, 28.000000)" stroke="#F96580" stroke-linecap="square">
+                        <path d="M9,0.5 L9,38" id="Line-2"></path>
+                        <path d="M0.5,38 L8.5,38" id="Line-3-Copy"></path>
+                        <path d="M8,0.5 L0,0.5" id="Line-7" fill-rule="nonzero"></path>
+                    </g>
+                    <text id="38px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                        <tspan x="173" y="55">38px</tspan>
+                    </text>
+                    <text id="12px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="30" y="13">12px</tspan>
+                    </text>
+                    <text id="12px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="130" y="13">12px</tspan>
+                    </text>
+                    <text id="9px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="0" y="39">9px</tspan>
+                    </text>
+                    <text id="9px-copy" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="0" y="67">9px</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Small-size-Height:-3" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="524" y="42">Small size</tspan>
+                <tspan x="592.432" y="42" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="64" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Height: 38px</tspan>
+                <tspan x="524" y="86" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Horizontal padding: 12px</tspan>
+                <tspan x="524" y="108" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Vertical padding: 9px</tspan>
+                <tspan x="524" y="130" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Minimum width: 60px</tspan>
+                <tspan x="524" y="152" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Font size: 12px</tspan>
+                <tspan x="524" y="174" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Line height: 20px </tspan>
+                <tspan x="524" y="196" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">border: 1px</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -7,10 +7,12 @@
     <title>Portfolio Detail</title>
 
     <link rel="stylesheet" href="./css/style2.css">
+    <link rel="shortcut icon" href="./images/favicon.png">
 
     <script src="./js/lib/jquery-3.3.1.min.js"></script>
     <script src="./js/contents/portfolios.js"></script>
 	<script>
+
         function setPageDetail(imgObj) {
             $('.top').attr('style', imgObj['top-img']);
 
@@ -60,6 +62,8 @@
 			}
 
 			$(window).scroll(scrollEvent)
+
+            
 
             var _loc = location.href.split("?");
             var _code = _loc[1].split("=");

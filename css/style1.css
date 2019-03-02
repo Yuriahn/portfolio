@@ -10,6 +10,7 @@ body {
 	font-family: 'Nixie One', cursive;
 	font-family: 'Montserrat', sans-serif;
 	font-family: 'Roboto Mono', monospace;
+	letter-spacing: -0.5px;
 }
 
 /* @import url('https://fonts.googleapis.com/css?family=ABeeZee|Armata|Cantarell|Merriweather+Sans|Montserrat|Nixie+One|PT+Mono|PT+Sans+Caption|Roboto+Mono|Roboto+Slab|Source+Code+Pro|Space+Mono');
@@ -135,9 +136,9 @@ body {
 }
 
 
-/* .contents-l1 img:hover {
+.contents-l1 img:hover {
 	content: url("../images/P_milkui_featured_hover.svg")
-} */
+}
 
 .contents-l1 h2 {
 	font-size: 28px;

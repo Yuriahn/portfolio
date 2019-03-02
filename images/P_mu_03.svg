@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="4177px" viewBox="0 0 1440 4177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>P_mu_03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="240" height="160"></rect>
+        <filter x="-3.1%" y="-4.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="240" height="160"></rect>
+        <filter x="-3.1%" y="-4.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="240" height="160"></rect>
+        <filter x="-3.1%" y="-4.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="240" height="160"></rect>
+        <filter x="-3.1%" y="-4.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="P_mu_03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="4177"></rect>
+        <path d="M140,2983.5 L1300,2983.5" id="Line-Copy-7" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M140,122.5 L1300,122.5" id="Line-Copy-8" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+        <text id="Checkboxes" font-family="NotoSans-Regular, Noto Sans" font-size="32" font-weight="normal" line-spacing="40" fill="#303133">
+            <tspan x="140" y="2945">Checkboxes</tspan>
+        </text>
+        <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="32" font-weight="normal" line-spacing="40" fill="#303133">
+            <tspan x="140" y="84">Select</tspan>
+        </text>
+        <text id="Colors" font-family="NotoSans-Regular, Noto Sans" font-size="28" font-weight="normal" fill="#303133">
+            <tspan x="140" y="3070">Colors</tspan>
+        </text>
+        <g id="Group" transform="translate(140.000000, 3109.000000)">
+            <g id="img-checkboxes-color">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="540"></rect>
+                <g id="checkbox-checked" transform="translate(166.000000, 97.000000)">
+                    <rect id="Rectangle-6-Copy-3" fill="#87634D" x="0" y="0" width="18" height="18"></rect>
+                    <g id="checkboxes-checked">
+                        <g id="check">
+                            <polygon id="Fill-1" points="0 17.9999682 18 17.9999682 18 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#FFFFFF" points="8.04590665 13.9254286 3 8.76388571 3.62501587 8.15766349 8.04877286 12.6776825 14.6603066 4.28571429 15.2825651 4.89476644"></polygon>
+                        </g>
+                    </g>
+                    <text id="Checked" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#606266">
+                        <tspan x="26" y="15">Checked</tspan>
+                    </text>
+                </g>
+                <g id="checkbox-checked-copy" transform="translate(166.000000, 179.000000)">
+                    <rect id="Rectangle-6-Copy-3" stroke="#87634D" x="0.5" y="0.5" width="17" height="17"></rect>
+                    <text id="Hover" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#606266">
+                        <tspan x="26" y="15">Hover</tspan>
+                    </text>
+                </g>
+                <g id="checkbox-checked-copy-2" transform="translate(166.000000, 261.000000)">
+                    <rect id="Rectangle-6-Copy-3" stroke="#DCDFE6" x="0.5" y="0.5" width="17" height="17"></rect>
+                    <text id="Unchecked" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#606266">
+                        <tspan x="26" y="15">Unchecked</tspan>
+                    </text>
+                </g>
+                <g id="checkbox-checked" transform="translate(166.000000, 425.000000)">
+                    <rect id="Rectangle-6-Copy-3" stroke="#DCDFE6" fill="#EBECF0" x="0.5" y="0.5" width="17" height="17"></rect>
+                    <g id="checkboxes-checked">
+                        <g id="check">
+                            <polygon id="Fill-1" points="0 17.9999682 18 17.9999682 18 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#909399" points="8.04590665 13.9254286 3 8.76388571 3.62501587 8.15766349 8.04877286 12.6776825 14.6603066 4.28571429 15.2825651 4.89476644"></polygon>
+                        </g>
+                    </g>
+                    <text id="Checked-disable" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#909399">
+                        <tspan x="26" y="15">Checked disable</tspan>
+                    </text>
+                </g>
+                <g id="checkbox-checked-copy" transform="translate(166.000000, 343.000000)">
+                    <rect id="Rectangle-6-Copy-3" stroke="#DCDFE6" fill="#EBECF0" x="0.5" y="0.5" width="17" height="17"></rect>
+                    <text id="Unchecked-disable" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#909399">
+                        <tspan x="26" y="15">Unchecked disable</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Checked-Box-fill:-#8" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="524" y="31">Checked</tspan>
+                <tspan x="583.402" y="31" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="53" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #87634D</tspan>
+                <tspan x="524" y="75" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Icon color: #FFFFFF</tspan>
+                <tspan x="524" y="97" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266</tspan>
+                <tspan x="524" y="119" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="141">Hover</tspan>
+                <tspan x="565.972" y="141" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="163" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #87634D</tspan>
+                <tspan x="524" y="185" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266</tspan>
+                <tspan x="524" y="207" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="229">Unchecked</tspan>
+                <tspan x="601.462" y="229" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="251" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #DCDFE6</tspan>
+                <tspan x="524" y="273" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #606266</tspan>
+                <tspan x="524" y="295" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="317">Unchecked disable</tspan>
+                <tspan x="655.054" y="317" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="339" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #EBECF0</tspan>
+                <tspan x="524" y="361" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #DCDFE6</tspan>
+                <tspan x="524" y="383" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399</tspan>
+                <tspan x="524" y="405" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="427">Checked disable</tspan>
+                <tspan x="524" y="449" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #EBECF0</tspan>
+                <tspan x="524" y="471" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #DCDFE6</tspan>
+                <tspan x="524" y="493" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Icon color: #909399</tspan>
+                <tspan x="524" y="515" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399</tspan>
+            </text>
+        </g>
+        <text id="Sizing" font-family="NotoSans-Regular, Noto Sans" font-size="28" font-weight="normal" fill="#303133">
+            <tspan x="140" y="3743">Sizing</tspan>
+        </text>
+        <g id="Group-Copy-5" transform="translate(140.000000, 3777.000000)">
+            <g id="img-checkboxes-sizing">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="300"></rect>
+                <g id="checkbox-checked" transform="translate(220.000000, 135.000000)">
+                    <rect id="Rectangle-6-Copy-3" fill="#87634D" x="0" y="0" width="18" height="18"></rect>
+                    <g id="checkboxes-checked">
+                        <g id="check">
+                            <polygon id="Fill-1" points="0 17.9999682 18 17.9999682 18 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#FFFFFF" points="8.04590665 13.9254286 3 8.76388571 3.62501587 8.15766349 8.04877286 12.6776825 14.6603066 4.28571429 15.2825651 4.89476644"></polygon>
+                        </g>
+                    </g>
+                    <text id="Option-A" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#606266">
+                        <tspan x="26" y="15">Option A</tspan>
+                    </text>
+                </g>
+                <g id="checkbox-checked-copy" transform="translate(220.000000, 169.000000)">
+                    <rect id="Rectangle-6-Copy-3" stroke="#DCDFE6" x="0.5" y="0.5" width="17" height="17"></rect>
+                    <text id="Option-B" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="18" fill="#606266">
+                        <tspan x="26" y="15">Option B</tspan>
+                    </text>
+                </g>
+                <text id="Heading-text" font-family="NotoSans-SemiBold, Noto Sans" font-size="14" font-weight="500" line-spacing="22" fill="#303133">
+                    <tspan x="220" y="112">Heading text</tspan>
+                </text>
+                <g id="guide" transform="translate(171.000000, 118.000000)">
+                    <g id="Group-2-Copy-7" transform="translate(97.000000, 8.500000) rotate(-90.000000) translate(-97.000000, -8.500000) translate(88.500000, -40.500000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,0.499177632 L0.5,97.5038216" id="Line-4"></path>
+                        <path d="M16.5,1 L16.5,97.5" id="Line-4-Copy"></path>
+                        <path d="M1,97.5 L16.4734458,97.5" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2-Copy-8" transform="translate(97.500000, 43.500000) rotate(-90.000000) translate(-97.500000, -43.500000) translate(89.000000, -5.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,0.499177632 L0.5,96.5038216" id="Line-4"></path>
+                        <path d="M16.5,0.499177632 L16.5,96.5071566" id="Line-4-Copy"></path>
+                        <path d="M1,96.5 L16.4734458,96.5" id="Line-5"></path>
+                    </g>
+                    <g id="Group-2-Copy-2" transform="translate(66.000000, 1.000000)" stroke="#25CEA5" stroke-linecap="square">
+                        <path d="M0.5,9.16600129e-13 L0.5,75.4986" id="Line-4"></path>
+                        <path d="M8.51517522,9.09494702e-13 L8.51517522,75.498435" id="Line-4-Copy"></path>
+                        <path d="M1,75.5 L8.38314395,75.5" id="Line-5"></path>
+                    </g>
+                    <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="61" y="98">8px</tspan>
+                    </text>
+                    <text id="16px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="154" y="15">16px</tspan>
+                    </text>
+                    <text id="16px-copy" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                        <tspan x="154" y="51">16px</tspan>
+                    </text>
+                    <g id="Group" transform="translate(36.000000, 16.000000)" stroke="#F96580" stroke-linecap="square">
+                        <path d="M0.5,0.679408482 L0.5,19.4183196" id="Line-2"></path>
+                        <path d="M0.5,0.5 L8.5,0.5" id="Line-3"></path>
+                        <path d="M0.5,19.5 L8.5,19.5" id="Line-3-Copy"></path>
+                    </g>
+                    <text id="18px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" fill="#F96580">
+                        <tspan x="0" y="30">18px</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Checkbox-size-Width:" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="522" y="31">Checkbox size</tspan>
+                <tspan x="619.86" y="31" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="522" y="53" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Width: 18px</tspan>
+                <tspan x="522" y="75" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Height: 18px</tspan>
+                <tspan x="522" y="97" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Border: 1px</tspan>
+                <tspan x="522" y="119" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="522" y="141" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Font size: 14px</tspan>
+                <tspan x="522" y="163" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Horizontal padding: 8px</tspan>
+                <tspan x="522" y="185" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Vertical padding: 16px</tspan>
+            </text>
+        </g>
+        <text id="Colors" font-family="NotoSans-Regular, Noto Sans" font-size="28" font-weight="normal" fill="#303133">
+            <tspan x="140" y="209">Colors</tspan>
+        </text>
+        <g id="Group" transform="translate(140.000000, 248.000000)">
+            <g id="img-select-color">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="1250"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="98" y="1049" width="304" height="104"></rect>
+                <g id="select--single--normal" transform="translate(130.000000, 97.000000)">
+                    <path d="M0,31.5 L240,31.5" id="Line-2" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <g id="chevron-down" transform="translate(208.000000, 0.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="16" y="15">Select</tspan>
+                    </text>
+                </g>
+                <g id="select--single--hover" transform="translate(130.000000, 193.000000)">
+                    <polygon id="Stroke-1" fill="#F4F5F7" points="0 40 240 40 240 0 0 0"></polygon>
+                    <g id="chevron-down" transform="translate(208.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="16" y="23">Select</tspan>
+                    </text>
+                </g>
+                <g id="select--single--focus" transform="translate(130.000000, 297.000000)">
+                    <path d="M0.5,39.5 L239.5,39.5 L239.5,0.5 L0.5,0.5 L0.5,39.5 Z" id="Stroke-1" stroke="#87634D"></path>
+                    <g id="chevron-up" transform="translate(220.000000, 20.000000) rotate(-180.000000) translate(-220.000000, -20.000000) translate(208.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="16" y="23">Select</tspan>
+                    </text>
+                    <g id="Group" transform="translate(0.000000, 48.000000)">
+                        <g id="Rectangle-5-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="option">
+                            <rect id="Rectangle" fill="#F4F5F7" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 1</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy" transform="translate(0.000000, 40.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-2" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 2</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy-2" transform="translate(0.000000, 80.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-3" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 3</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy-3" transform="translate(0.000000, 120.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-4" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 4</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="select--single--selected" transform="translate(130.000000, 841.000000)">
+                    <path d="M0,39.5 L240,39.5" id="Line-2" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <g id="chevron-down" transform="translate(208.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                        <tspan x="16" y="23">Option 1</tspan>
+                    </text>
+                </g>
+                <g id="select--multiple--selected" transform="translate(130.000000, 945.000000)">
+                    <path d="M0,39.5 L240,39.5" id="Line-2" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <g id="chevron-down" transform="translate(208.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <g id="Group-34" transform="translate(8.000000, 4.000000)">
+                        <rect id="Rectangle" fill="#F4F5F7" fill-rule="nonzero" x="0" y="0" width="93" height="32"></rect>
+                        <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                            <tspan x="8" y="19">Option 1</tspan>
+                        </text>
+                        <g id="closed" transform="translate(73.000000, 8.000000)">
+                            <polygon id="Fill-1" points="0 15.9999718 16 15.9999718 16 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#606266" points="12.0190355 4.35683749 11.4717218 3.80952381 7.91429579 7.36698211 4.35683749 3.80952381 3.80952381 4.35683749 7.36698211 7.91429579 3.80952381 11.4717218 4.35683749 12.0190355 7.91429579 8.46157722 11.4717218 12.0190355 12.0190355 11.4717218 8.46157722 7.91429579"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="select--single--focus-reselect" transform="translate(130.000000, 569.000000)">
+                    <path d="M0.5,39.5 L239.5,39.5 L239.5,0.5 L0.5,0.5 L0.5,39.5 Z" id="Stroke-1" stroke="#87634D" fill="#FFFFFF"></path>
+                    <g id="chevron-up" transform="translate(220.000000, 20.000000) rotate(-180.000000) translate(-220.000000, -20.000000) translate(208.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                        <tspan x="16" y="23">Option 1</tspan>
+                    </text>
+                    <g id="Group" transform="translate(0.000000, 48.000000)">
+                        <g id="Rectangle-5-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="option">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-1" font-family="NotoSans-SemiBold, Noto Sans" font-size="14" font-weight="500" line-spacing="22" fill="#87634D">
+                                <tspan x="16" y="24">Option 1</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy" transform="translate(0.000000, 40.000000)">
+                            <rect id="Rectangle" fill="#F4F5F7" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-2" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 2</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy-2" transform="translate(0.000000, 80.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-3" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 3</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy-3" transform="translate(0.000000, 120.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-4" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 4</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="select--disabled" transform="translate(130.000000, 1081.000000)">
+                    <polygon id="Stroke-1" fill="#FAFBFC" points="0 40 240 40 240 0 0 0"></polygon>
+                    <path d="M0,39.5 L240,39.5" id="Line-2" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <g id="chevron-down" opacity="0.3" transform="translate(208.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" opacity="0.3" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="16" y="23">Select</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Default-Border:-#DCD" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" line-spacing="22" fill="#606266">
+                <tspan x="524" y="31">Default</tspan>
+                <tspan x="576.052" y="31" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="53" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Border: #DCDFE6</tspan>
+                <tspan x="524" y="75" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399</tspan>
+                <tspan x="524" y="97" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="119">Hover</tspan>
+                <tspan x="565.972" y="119" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="141" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #F4F5F7</tspan>
+                <tspan x="524" y="163" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399</tspan>
+                <tspan x="524" y="185" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="207">Focus</tspan>
+                <tspan x="563.704" y="207" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="229" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #87634D</tspan>
+                <tspan x="524" y="251" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399</tspan>
+                <tspan x="524" y="273" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color(drop menus): #303133</tspan>
+                <tspan x="524" y="295" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: hover(drop menus): #F4F5F7</tspan>
+                <tspan x="524" y="317" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box shadows: #000000 rgba(0, 0, 0, 15) blur 5</tspan>
+                <tspan x="524" y="339" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="361">Focus-reselect</tspan>
+                <tspan x="623.89" y="361" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="383" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-border: #87634D</tspan>
+                <tspan x="524" y="405" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #FFFFFF</tspan>
+                <tspan x="524" y="427" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399</tspan>
+                <tspan x="524" y="449" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color(drop menus): #303133</tspan>
+                <tspan x="524" y="471" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color-selected(drop menus): #87634D</tspan>
+                <tspan x="524" y="493" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="515">Selected</tspan>
+                <tspan x="582.94" y="515" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="537" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Border: #DCDFE6</tspan>
+                <tspan x="524" y="559" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #303133</tspan>
+                <tspan x="524" y="581" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="603">Selected(multiple select)</tspan>
+                <tspan x="696.088" y="603" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="625" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Border: #DCDFE6</tspan>
+                <tspan x="524" y="647" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #303133</tspan>
+                <tspan x="524" y="669" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #F4F5F7</tspan>
+                <tspan x="524" y="691" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="713">Disabled</tspan>
+                <tspan x="584.312" y="713" font-family="NotoSans-Regular, Noto Sans" font-weight="normal"></tspan>
+                <tspan x="524" y="735" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Border: #DCDFE6</tspan>
+                <tspan x="524" y="757" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Text color: #909399 opacity 30%</tspan>
+                <tspan x="524" y="779" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Icon color: #909399 opacity 30%</tspan>
+                <tspan x="524" y="801" font-family="NotoSans-Regular, Noto Sans" font-weight="normal">Box-fill: #FAFBFC</tspan>
+            </text>
+        </g>
+        <text id="Sizing" font-family="NotoSans-Regular, Noto Sans" font-size="28" font-weight="normal" fill="#303133">
+            <tspan x="140" y="1592">Sizing</tspan>
+        </text>
+        <g id="Group-Copy-5" transform="translate(140.000000, 1623.000000)">
+            <g id="img-select-sizing">
+                <rect id="Rectangle" fill="#FAFBFC" x="0" y="0" width="500" height="1138"></rect>
+                <g id="select--single--normal" transform="translate(92.000000, 71.000000)">
+                    <path d="M38,61.5 L278,61.5" id="Line-2" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <g id="chevron-down" transform="translate(246.000000, 29.000000)">
+                        <polygon id="Fill-1" fill="#F96580" opacity="0.2" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="54" y="44">Select</tspan>
+                    </text>
+                    <g id="guide">
+                        <g id="Group-2-Copy-3" transform="translate(38.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,40" id="Line-4"></path>
+                            <path d="M15.5,1 L15.5,40" id="Line-4-Copy"></path>
+                            <path d="M1,1 C10.3333333,1 15,1 15,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-3" transform="translate(269.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M1,1 L1,40" id="Line-4"></path>
+                            <path d="M8.5,1 L8.5,40" id="Line-4-Copy"></path>
+                            <path d="M1.00146484,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="265" y="13">8px</tspan>
+                        </text>
+                        <g id="Group-2-Copy" transform="translate(153.500000, 56.500000) rotate(-90.000000) translate(-153.500000, -56.500000) translate(149.000000, -68.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,248.5" id="Line-4"></path>
+                            <path d="M8.5,0.999023438 L8.5,248.5" id="Line-4-Copy"></path>
+                            <path d="M1,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group" transform="translate(282.000000, 28.000000)" stroke="#F96580" stroke-linecap="square">
+                            <path d="M7,1.50139509 L7,25.5" id="Line-2"></path>
+                            <path d="M-6.59383659e-12,1.49818638 L6.5,1.49818638" id="Line-3"></path>
+                            <path d="M0,25.5 L6.5,25.5" id="Line-3-Copy"></path>
+                        </g>
+                        <text id="24px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                            <tspan x="298" y="48">24px</tspan>
+                        </text>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="62">8px</tspan>
+                        </text>
+                        <text id="16px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="32" y="13">16px</tspan>
+                        </text>
+                        <text id="Varies" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="157" y="13">Varies</tspan>
+                        </text>
+                        <g id="Group-2-Copy-13" transform="translate(96.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,40" id="Line-4"></path>
+                            <path d="M150,1 L150,40" id="Line-4-Copy"></path>
+                            <path d="M1,1 L149.929199,1" id="Line-5"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="select--single--hover" transform="translate(92.000000, 197.000000)">
+                    <polygon id="Stroke-1" fill="#F4F5F7" points="38 69 278 69 278 29 38 29"></polygon>
+                    <g id="chevron-down" transform="translate(246.000000, 37.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="54" y="52">Select</tspan>
+                    </text>
+                    <g id="guide-copy">
+                        <g id="Group-2-Copy-3" transform="translate(38.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,48" id="Line-4"></path>
+                            <path d="M15.5,1 L15.5,48" id="Line-4-Copy"></path>
+                            <path d="M1,1 C10.3333333,1 15,1 15,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-3" transform="translate(269.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M1,1 L1,48" id="Line-4"></path>
+                            <path d="M8.5,1 L8.5,48" id="Line-4-Copy"></path>
+                            <path d="M1,1 L7.99853516,1" id="Line-5"></path>
+                        </g>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="265" y="13">8px</tspan>
+                        </text>
+                        <g id="Group-2-Copy" transform="translate(153.500000, 64.500000) rotate(-90.000000) translate(-153.500000, -64.500000) translate(149.000000, -60.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,248.5" id="Line-4"></path>
+                            <path d="M8.5,0.999023437 L8.5,248.5" id="Line-4-Copy"></path>
+                            <path d="M1,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-2" transform="translate(153.500000, 32.500000) rotate(-90.000000) translate(-153.500000, -32.500000) translate(149.000000, -92.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,248.5" id="Line-4"></path>
+                            <path d="M8.5,0.999023438 L8.5,248.5" id="Line-4-Copy"></path>
+                            <path d="M1,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group" transform="translate(282.000000, 27.000000)" stroke="#F96580" stroke-linecap="square">
+                            <path d="M7,1.50139509 L7,41.5" id="Line-2"></path>
+                            <path d="M-7.27595761e-12,1.49818638 L6.5,1.49818638" id="Line-3"></path>
+                            <path d="M0,41.5 L6.5,41.5" id="Line-3-Copy"></path>
+                        </g>
+                        <text id="40px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                            <tspan x="298" y="55">40px</tspan>
+                        </text>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="71">8px</tspan>
+                        </text>
+                        <text id="8px-copy" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="38">8px</tspan>
+                        </text>
+                        <text id="16px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="32" y="13">16px</tspan>
+                        </text>
+                        <text id="Varies" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="157" y="13">Varies</tspan>
+                        </text>
+                        <g id="Group-2-Copy-13" transform="translate(96.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,48" id="Line-4"></path>
+                            <path d="M150,1 L150,48" id="Line-4-Copy"></path>
+                            <path d="M1,1 L149.929199,1" id="Line-5"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="select--single--focus" transform="translate(92.000000, 495.000000)">
+                    <path d="M38.5,39.5 L277.5,39.5 L277.5,0.5 L38.5,0.5 L38.5,39.5 Z" id="Stroke-1" stroke="#87634D"></path>
+                    <g id="chevron-up" transform="translate(258.000000, 20.000000) rotate(-180.000000) translate(-258.000000, -20.000000) translate(246.000000, 8.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <text id="Select" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#909399">
+                        <tspan x="54" y="23">Select</tspan>
+                    </text>
+                    <g id="Group" transform="translate(38.000000, 48.000000)">
+                        <g id="Rectangle-5-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="option">
+                            <rect id="Rectangle" fill="#F4F5F7" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 1</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy" transform="translate(0.000000, 40.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-2" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 2</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy-2" transform="translate(0.000000, 80.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-3" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 3</tspan>
+                            </text>
+                        </g>
+                        <g id="option-copy-3" transform="translate(0.000000, 120.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-4" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 4</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="guide-copy" transform="translate(0.000000, 37.000000)">
+                        <g id="Group-2-Copy" transform="translate(153.500000, 6.500000) rotate(-90.000000) translate(-153.500000, -6.500000) translate(149.000000, -118.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,248.5" id="Line-4"></path>
+                            <path d="M8.5,0.999023437 L8.5,248.5" id="Line-4-Copy"></path>
+                            <path d="M1,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group" transform="translate(282.000000, 9.000000)" stroke="#F96580" stroke-linecap="square">
+                            <path d="M7,1.50139509 L7,41.5" id="Line-2"></path>
+                            <path d="M-7.27595761e-12,1.49818638 L6.5,1.49818638" id="Line-3"></path>
+                            <path d="M0,41.5 L6.5,41.5" id="Line-3-Copy"></path>
+                        </g>
+                        <text id="40px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                            <tspan x="298" y="37">40px</tspan>
+                        </text>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="13">8px</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="select--multiple--selected" transform="translate(92.000000, 332.000000)">
+                    <path d="M38,69.5 L278,69.5" id="Line-2" stroke="#DCDFE6" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <g id="chevron-down" transform="translate(246.000000, 37.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <g id="Group-34" transform="translate(46.000000, 33.000000)">
+                        <rect id="Rectangle" fill="#F4F5F7" fill-rule="nonzero" x="0" y="0" width="93" height="32"></rect>
+                        <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                            <tspan x="8" y="19">Option 1</tspan>
+                        </text>
+                        <g id="closed" transform="translate(73.000000, 8.000000)">
+                            <polygon id="Fill-1" fill="#F96580" opacity="0.2" points="0 15.9999718 16 15.9999718 16 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#606266" points="12.0190355 4.35683749 11.4717218 3.80952381 7.91429579 7.36698211 4.35683749 3.80952381 3.80952381 4.35683749 7.36698211 7.91429579 3.80952381 11.4717218 4.35683749 12.0190355 7.91429579 8.46157722 11.4717218 12.0190355 12.0190355 11.4717218 8.46157722 7.91429579"></polygon>
+                        </g>
+                    </g>
+                    <g id="guide-copy">
+                        <g id="Group-2-Copy-3" transform="translate(45.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,48" id="Line-4"></path>
+                            <path d="M8.5,1 L8.5,48" id="Line-4-Copy"></path>
+                            <path d="M0.507486979,1 C5.84082031,1 8.50748698,1 8.50748698,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-4" transform="translate(111.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,48" id="Line-4"></path>
+                            <path d="M8.5,1 L8.5,48" id="Line-4-Copy"></path>
+                            <path d="M0.507486979,1 C5.84082031,1 8.50748698,1 8.50748698,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-5" transform="translate(135.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,48" id="Line-4"></path>
+                            <path d="M4.5,1 L4.5,48" id="Line-4-Copy"></path>
+                            <path d="M0.507486979,1 L4.50748698,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy" transform="translate(162.000000, 66.500000) rotate(-90.000000) translate(-162.000000, -66.500000) translate(159.500000, -58.500000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,248.5" id="Line-4"></path>
+                            <path d="M4.5,0.999023438 L4.5,248.5" id="Line-4-Copy"></path>
+                            <path d="M1,248.5 L4,248.5" id="Line-5"></path>
+                        </g>
+                        <text id="4px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="294" y="72">4px</tspan>
+                        </text>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="39" y="13">8px</tspan>
+                        </text>
+                        <text id="8px-copy-2" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="105" y="13">8px</tspan>
+                        </text>
+                        <text id="4px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="129" y="13">4px</tspan>
+                        </text>
+                        <g id="Group-2-Copy" transform="translate(84.000000, 60.500000) rotate(-90.000000) translate(-84.000000, -60.500000) translate(79.500000, 5.500000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,110" id="Line-4"></path>
+                            <path d="M8.5,0.999023437 L8.5,110" id="Line-4-Copy"></path>
+                            <path d="M1,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-6" transform="translate(84.000000, 36.500000) rotate(-90.000000) translate(-84.000000, -36.500000) translate(79.500000, -18.500000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.997192383 L0.5,110" id="Line-4"></path>
+                            <path d="M8.5,0.999023437 L8.5,110" id="Line-4-Copy"></path>
+                            <path d="M1,1 L8,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group" transform="translate(144.000000, 31.000000)" stroke="#F96580" stroke-linecap="square">
+                            <path d="M7,1.50139509 L7,33.5" id="Line-2"></path>
+                            <path d="M-7.27595761e-12,1.49818638 L6.5,1.49818638" id="Line-3"></path>
+                            <path d="M0,33.5 L6.5,33.5" id="Line-3-Copy"></path>
+                        </g>
+                        <text id="32px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                            <tspan x="160" y="55">32px</tspan>
+                        </text>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="67">8px</tspan>
+                        </text>
+                        <text id="8px-copy-3" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="43">8px</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="select--multiple--focus-reselect" transform="translate(93.000000, 769.000000)">
+                    <path d="M37.5,103.5 L276.5,103.5 L276.5,28.5 L37.5,28.5 L37.5,103.5 Z" id="Stroke-1" stroke="#87634D"></path>
+                    <g id="chevron-up" transform="translate(257.000000, 66.000000) rotate(-180.000000) translate(-257.000000, -66.000000) translate(245.000000, 54.000000)">
+                        <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="#606266" points="11.7113953 15.5826697 5.14285714 8.81018292 5.97621164 8.00188662 11.7152169 13.9190083 17.5088859 8 18.3385639 8.81206954"></polygon>
+                    </g>
+                    <g id="Group-34" transform="translate(45.000000, 32.000000)">
+                        <rect id="Rectangle" fill="#F4F5F7" fill-rule="nonzero" x="0" y="0" width="93" height="32"></rect>
+                        <text id="Option-1" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                            <tspan x="8" y="19">Option 1</tspan>
+                        </text>
+                        <g id="closed" transform="translate(73.000000, 8.000000)">
+                            <polygon id="Fill-1" points="0 15.9999718 16 15.9999718 16 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#606266" points="12.0190355 4.35683749 11.4717218 3.80952381 7.91429579 7.36698211 4.35683749 3.80952381 3.80952381 4.35683749 7.36698211 7.91429579 3.80952381 11.4717218 4.35683749 12.0190355 7.91429579 8.46157722 11.4717218 12.0190355 12.0190355 11.4717218 8.46157722 7.91429579"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-34-Copy-2" transform="translate(45.000000, 68.000000)">
+                        <rect id="Rectangle" fill="#F4F5F7" fill-rule="nonzero" x="0" y="0" width="93" height="32"></rect>
+                        <text id="Option-3" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                            <tspan x="8" y="19">Option 3</tspan>
+                        </text>
+                        <g id="closed" transform="translate(73.000000, 8.000000)">
+                            <polygon id="Fill-1" points="0 15.9999718 16 15.9999718 16 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#606266" points="12.0190355 4.35683749 11.4717218 3.80952381 7.91429579 7.36698211 4.35683749 3.80952381 3.80952381 4.35683749 7.36698211 7.91429579 3.80952381 11.4717218 4.35683749 12.0190355 7.91429579 8.46157722 11.4717218 12.0190355 12.0190355 11.4717218 8.46157722 7.91429579"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-34-Copy" transform="translate(142.000000, 32.000000)">
+                        <rect id="Rectangle" fill="#F4F5F7" fill-rule="nonzero" x="0" y="0" width="93" height="32"></rect>
+                        <text id="Option-2" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="24" fill="#303133">
+                            <tspan x="8" y="19">Option 2</tspan>
+                        </text>
+                        <g id="closed" transform="translate(73.000000, 8.000000)">
+                            <polygon id="Fill-1" points="0 15.9999718 16 15.9999718 16 0 0 0"></polygon>
+                            <polygon id="Fill-3" fill="#606266" points="12.0190355 4.35683749 11.4717218 3.80952381 7.91429579 7.36698211 4.35683749 3.80952381 3.80952381 4.35683749 7.36698211 7.91429579 3.80952381 11.4717218 4.35683749 12.0190355 7.91429579 8.46157722 11.4717218 12.0190355 12.0190355 11.4717218 8.46157722 7.91429579"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(37.000000, 112.000000)">
+                        <g id="Rectangle-5-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="option">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-1" font-family="NotoSans-SemiBold, Noto Sans" font-size="14" font-weight="500" line-spacing="22" fill="#87634D">
+                                <tspan x="16" y="24">Option 1</tspan>
+                            </text>
+                            <g id="check" transform="translate(208.000000, 8.000000)">
+                                <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                                <polygon id="Fill-3" fill="#87634D" points="10.7278755 18.5672381 4 11.685181 4.8333545 10.8768847 10.7316971 16.9035767 19.5470754 5.71428571 20.3767534 6.52635525"></polygon>
+                            </g>
+                        </g>
+                        <g id="option-copy" transform="translate(0.000000, 40.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-2" font-family="NotoSans-SemiBold, Noto Sans" font-size="14" font-weight="500" line-spacing="22" fill="#87634D">
+                                <tspan x="16" y="24">Option 2</tspan>
+                            </text>
+                            <g id="check" transform="translate(208.000000, 8.000000)">
+                                <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                                <polygon id="Fill-3" fill="#87634D" points="10.7278755 18.5672381 4 11.685181 4.8333545 10.8768847 10.7316971 16.9035767 19.5470754 5.71428571 20.3767534 6.52635525"></polygon>
+                            </g>
+                        </g>
+                        <g id="option-copy-2" transform="translate(0.000000, 80.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-3" font-family="NotoSans-SemiBold, Noto Sans" font-size="14" font-weight="500" line-spacing="22" fill="#87634D">
+                                <tspan x="16" y="24">Option 3</tspan>
+                            </text>
+                            <g id="check" transform="translate(208.000000, 8.000000)">
+                                <polygon id="Fill-1" points="0 23.9999577 24 23.9999577 24 0 0 0"></polygon>
+                                <polygon id="Fill-3" fill="#87634D" points="10.7278755 18.5672381 4 11.685181 4.8333545 10.8768847 10.7316971 16.9035767 19.5470754 5.71428571 20.3767534 6.52635525"></polygon>
+                            </g>
+                        </g>
+                        <g id="option-copy-3" transform="translate(0.000000, 120.000000)">
+                            <rect id="Rectangle" fill="#F4F5F7" x="0" y="0" width="240" height="40"></rect>
+                            <text id="Option-4" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#303133">
+                                <tspan x="16" y="24">Option 4</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="guide-copy">
+                        <g id="Group-2-Copy-5" transform="translate(137.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,83.5" id="Line-4"></path>
+                            <path d="M4.5,1 L4.5,83.5" id="Line-4-Copy"></path>
+                            <path d="M0.507486979,1 L4.50748698,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-9" transform="translate(37.000000, 20.000000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,1 L0.5,83.5" id="Line-4"></path>
+                            <path d="M8.5,1 L8.5,83.5" id="Line-4-Copy"></path>
+                            <path d="M0.507486979,1 L8.50748698,1" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy" transform="translate(153.000000, 30.500000) rotate(-90.000000) translate(-153.000000, -30.500000) translate(150.500000, -93.500000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.5 L0.5,247.5" id="Line-4"></path>
+                            <path d="M4.5,0.5 L4.5,247.5" id="Line-4-Copy"></path>
+                            <path d="M1,0.5 L4,0.5" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-7" transform="translate(153.000000, 101.500000) rotate(-90.000000) translate(-153.000000, -101.500000) translate(150.500000, -22.500000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.5 L0.5,247.5" id="Line-4"></path>
+                            <path d="M4.5,0.5 L4.5,247.5" id="Line-4-Copy"></path>
+                            <path d="M1,0.5 L4,0.5" id="Line-5"></path>
+                        </g>
+                        <g id="Group-2-Copy-8" transform="translate(132.000000, 65.500000) rotate(-90.000000) translate(-132.000000, -65.500000) translate(129.500000, -37.500000)" stroke="#25CEA5" stroke-linecap="square">
+                            <path d="M0.5,0.5 L0.5,205.510864" id="Line-4"></path>
+                            <path d="M4.5,0.5 L4.5,205.519165" id="Line-4-Copy"></path>
+                            <path d="M1,0.5 L4,0.5" id="Line-5"></path>
+                        </g>
+                        <text id="4px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="36">4px</tspan>
+                        </text>
+                        <text id="4px-copy" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="107">4px</tspan>
+                        </text>
+                        <text id="4px-copy-2" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="0" y="71">4px</tspan>
+                        </text>
+                        <text id="4px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="129" y="13">4px</tspan>
+                        </text>
+                        <text id="8px" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#25CEA5">
+                            <tspan x="31" y="13">8px</tspan>
+                        </text>
+                        <g id="Group" transform="translate(281.000000, 27.000000)" stroke="#F96580" stroke-linecap="square">
+                            <path d="M7,1.50139509 L7,76.5" id="Line-2"></path>
+                            <path d="M-7.27595761e-12,1.49818638 L6.5,1.49818638" id="Line-3"></path>
+                            <path d="M0,76.5 L6.5,76.5" id="Line-3-Copy"></path>
+                        </g>
+                        <text id="Varies" font-family="NotoSans-Regular, Noto Sans" font-size="12" font-weight="normal" line-spacing="12" fill="#F96580">
+                            <tspan x="297" y="73">Varies</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <text id="Height:-40px-Height(" font-family="NotoSans-Regular, Noto Sans" font-size="14" font-weight="normal" line-spacing="22" fill="#606266">
+                <tspan x="524" y="34">Height: 40px</tspan>
+                <tspan x="524" y="56">Height(multiple select): 32px</tspan>
+                <tspan x="524" y="78">Font size: 14px</tspan>
+                <tspan x="524" y="100">Border: 1px</tspan>
+                <tspan x="524" y="122"></tspan>
+                <tspan x="524" y="144"></tspan>
+                <tspan x="524" y="166"></tspan>
+                <tspan x="524" y="188"></tspan>
+                <tspan x="524" y="210"></tspan>
+                <tspan x="524" y="232"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
