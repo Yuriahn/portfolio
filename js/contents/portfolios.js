@@ -5,7 +5,7 @@ var portfolios_info = {
 
     },
     'bt': {
-        'top-img': "background-image: url('./images/P_BT_top.jpg')",
+        'top-img': "background-image: url('./images/P_BT_top.png')",
 
         'tt_obj' : "Taste of Book",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
@@ -13,18 +13,18 @@ var portfolios_info = {
         'nm_obj': "<b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
 
         'img_obj_1': {
-            'src': './images/P_BT_wireframe.jpg',
+            'src': './images/P_BT_wireframe.png',
         },
         'img_obj_2': {
-            'src': './images/P_BT_01.jpg',
+            'src': './images/P_BT_01.png',
             'style': 'margin-top: 0; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_3': {
-            'src': './images/P_BT_02.jpg',
+            'src': './images/P_BT_02.png',
             'style': 'margin-top: -5px; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_4': {
-            'src': './images/P_BT_03.jpg',
+            'src': './images/P_BT_03.png',
             'style': 'margin-top: -5px; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_5': {
@@ -270,7 +270,7 @@ var portfolios_info = {
     },
 
     'fi': {
-        'top-img': "background-image: url('./images/P_FI_top.jpg')",
+        'top-img': "background-image: url('./images/P_FI_top.png')",
 
         'tt_obj' : "The Experience elements<br>of F.I.",
         'rl_obj': "Infographic<br>2015",
@@ -316,7 +316,7 @@ var portfolios_info = {
     },
 
     '9': {
-        'top-img': "background-image: url('./images/P_9_top.jpg')",
+        'top-img': "background-image: url('./images/P_9_top.png')",
 
         'tt_obj' : "9 o'clock",
         'rl_obj': "Branding<br>2010<br><img src='./images/P_9_reddot.svg'>",
@@ -358,7 +358,7 @@ var portfolios_info = {
     },
 
     'nana6': {
-        'top-img': "background-image: url('./images/P_nana6_top.jpg')",
+        'top-img': "background-image: url('./images/P_nana6_top.png')",
 
         'tt_obj' : "Nana6 project",
         'rl_obj': "Editorial design<br>2010",
@@ -391,13 +391,13 @@ var portfolios_info = {
             'src': './images/P_nana6_08.jpg',
         },
         'img_obj_9': {
-            'src': './images/P_nana6_09.jpg',
+            'src': './images/P_nana6_09.png',
             'style': 'margin-top: 100px; width: 100%; margin-left: 0; margin-right: 0;'
         },
     },
 
     'se': {
-        'top-img': "background-image: url('./images/P_SE_top.jpg')",
+        'top-img': "background-image: url('./images/P_SE_top.png')",
 
         'tt_obj' : "Save earth",
         'rl_obj': "Visual artwork, Branding<br>2009",
@@ -490,7 +490,7 @@ var portfolios_info = {
     },
 
     'sb': {
-        'top-img': "background-image: url('./images/P_SB_top.svg')",
+        'top-img': "background-image: url('./images/P_SB_top.png')",
 
         'tt_obj' : "Suabow",
         'rl_obj': "Branding, Character<br>2008",
@@ -498,11 +498,11 @@ var portfolios_info = {
         'nm_obj': "<b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
-            'src': './images/P_SB_01.svg',
+            'src': './images/P_SB_01.png',
             'style': 'margin-top: 100px; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_2': {
-            'src': './images/P_SB_02.svg',
+            'src': './images/P_SB_02.png',
             'style': 'margin-top: -6px; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_3': {
