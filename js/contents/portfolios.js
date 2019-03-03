@@ -9,7 +9,7 @@ var portfolios_info = {
 
         'tt_obj' : "Taste of Book",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
-        'dsc_obj': "<b>Description</b><br>책 문장수집 서비스",
+        'dsc_obj': "<b>Description</b><br>책에서 페이지를 사진 찍으면 텍스트로 변환되어 문장을 수집할 수 있는<br>서비스이다. 인상깊은 구절을 저장하여 간직할 수 있다.",
         'nm_obj': "<b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
 
         'img_obj_1': {
@@ -54,20 +54,20 @@ var portfolios_info = {
 
         'tt_obj' : "Milk ui",
         'rl_obj': "UI library, Branding<br>2019",
-        'dsc_obj': "<b>Description</b><br>'Space', 'Perspective', 'Fill'을 키워드로 한 UI 라이브러리 ",
+        'dsc_obj': "<b>Description</b><br> 개발과 디자인을 맡고 있는 각자의 이름인 Jeongwoo의 'Woo'와 Yuri의 'Yu'를 합쳐 우유(Milk) UI 프로젝트를 진행하였다.<br>Space', 'Perspective', 'Fill'을 키워드로 하여 공간이 채워지는<br>콘셉트로 작업하였다. ",
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn<br><b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://woo-u.github.io/milkui/#/' target='_blank'>View UI Library</a>",
         
         'img_obj_1': {
             'src': './images/P_mu_01.svg',
-            'style': 'margin-top: 0; width: 100%; margin-left: 0; margin-right: 0;'
+            'style': 'margin-top: 0;'
         },
         'img_obj_2': {
             'src': './images/P_mu_02.svg',
-            'style': 'margin-top: -5px; width: 100%; margin-left: 0; margin-right: 0;'
+            'style': 'margin-top: -5px;'
         },
         'img_obj_3': {
             'src': './images/P_mu_03.svg',
-            'style': 'margin-top: -5px; width: 100%; margin-left: 0; margin-right: 0;'
+            'style': 'margin-top: -5px;'
         },
         'img_obj_4': {
             'src': '',
@@ -141,48 +141,48 @@ var portfolios_info = {
     },
 
     'mtui': {
-        'top-img': "background-image: url('./images/P_mtui_top.svg')",
+        'top-img': "background-image: url('./images/P_mgtb_top.svg')",
 
         'tt_obj' : "Magic table",
-        'rl_obj': "UI library, Product design<br>2018",
-        'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여<br>광고분석 솔루션인 매직테이블을 디자인하였다.",
+        'rl_obj': "Product design, UI library<br>2018",
+        'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여<br>광고분석 솔루션인 매직테이블 UI와 화면을 디자인하였다.",
         'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
 
         'img_obj_1': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_01.svg',
+            'style': 'margin-top: 50px;'
         },
         'img_obj_2': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_02.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_3': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_03.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_4': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_04.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_5': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_05.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_6': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_06.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_7': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_07.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_8': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_08.svg',
+            'style': 'margin-top: -5px;'
         },
         'img_obj_9': {
-            'src': '',
-            'style': 'display: none;',
+            'src': './images/P_mt_09.svg',
+            'style': 'margin-top: -5px;'
         },
     },
 
@@ -233,7 +233,7 @@ var portfolios_info = {
 
         'tt_obj' : "Hair schedule",
         'rl_obj': "UX/UI design, Branding<br>2015",
-        'dsc_obj': "<b>Description</b><br>헤어샵 단골 디자이너와 고객과의 시간예약 어플리케이션",
+        'dsc_obj': "<b>Description</b><br>헤어샵 단골 디자이너와 고객과의 시간예약 서비스",
         'nm_obj': "<b>Planning:</b> Sinjoo Yoon<br><b>UX/UI Design:</b> Yuri Ahn",
 
         'img_obj_1': {
