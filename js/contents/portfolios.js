@@ -10,7 +10,7 @@ var portfolios_info = {
         'tt_obj' : "Taste of Book",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
         'dsc_obj': "<b>Description</b><br>책에서 페이지를 사진 찍으면 텍스트로 변환되어 문장을 수집할 수 있는<br>서비스이다. 인상깊은 구절을 저장하여 간직할 수 있다.",
-        'nm_obj': "<b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
+        'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
 
         'img_obj_1': {
             'src': './images/P_BT_wireframe.png',
@@ -146,7 +146,7 @@ var portfolios_info = {
         'tt_obj' : "Magic table",
         'rl_obj': "Product design, UI library<br>2018",
         'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여<br>광고분석 솔루션인 매직테이블 UI와 화면을 디자인하였다.",
-        'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
+        'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn, Sanghwan Jeon<br><b>Back-end programming:</b> Yoonhong Min, Sanghwan Jeon<br><b>UX planning:</b> Soyeon Kwon<br><b>Product managing:</b> Jihyun Lim<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
 
         'img_obj_1': {
             'src': './images/P_mt_01.svg',
