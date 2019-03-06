@@ -9,7 +9,7 @@ var portfolios_info = {
 
         'tt_obj' : "Taste of Book",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
-        'dsc_obj': "<b>Description</b><br>책에서 페이지를 사진 찍으면 텍스트로 변환되어 문장을 수집할 수 있는<br>서비스이다. 인상깊은 구절을 저장하여 간직할 수 있다.",
+        'dsc_obj': "<b>Description</b><br>책에서 페이지를 사진 찍으면 텍스트로 변환되어 문장을 수집할 수 있는 서비스이다. 인상깊은 구절을 저장하여 간직할 수 있다.",
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
 
         'img_obj_1': {
@@ -54,7 +54,7 @@ var portfolios_info = {
 
         'tt_obj' : "Milk ui",
         'rl_obj': "UI library, Branding<br>2019",
-        'dsc_obj': "<b>Description</b><br> 개발과 디자인을 맡고 있는 각자의 이름인 Jeongwoo의 'Woo'와 Yuri의 'Yu'를 합쳐 우유(Milk) UI 프로젝트를 진행하였다.<br>Space', 'Perspective', 'Fill'을 키워드로 하여 공간이 채워지는<br>콘셉트로 작업하였다. ",
+        'dsc_obj': "<b>Description</b><br> 개발과 디자인을 맡고 있는 각자의 이름인 Jeongwoo의 'Woo'와 Yuri의 'Yu'를 합쳐 우유(Milk) UI 프로젝트를 진행하였다.<br>Space', 'Perspective', 'Fill'을 키워드로 하여 공간이 채워지는 콘셉트로 작업하였다. ",
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn<br><b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://woo-u.github.io/milkui/#/' target='_blank'>View UI Library</a>",
         
         'img_obj_1': {
@@ -145,7 +145,7 @@ var portfolios_info = {
 
         'tt_obj' : "Magic table",
         'rl_obj': "Product design, UI library<br>2018",
-        'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여<br>광고분석 솔루션인 매직테이블 UI와 화면을 디자인하였다.",
+        'dsc_obj': "<b>Description</b><br>디자인 시스템 가이드와 UI 라이브러리를 만들고, 이를 적용하여 광고분석 솔루션인 매직테이블 UI와 화면을 디자인하였다.",
         'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn, Sanghwan Jeon<br><b>Back-end programming:</b> Yoonhong Min, Sanghwan Jeon<br><b>UX planning:</b> Soyeon Kwon<br><b>Product managing:</b> Jihyun Lim<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
 
         'img_obj_1': {
@@ -320,7 +320,7 @@ var portfolios_info = {
 
         'tt_obj' : "9 o'clock",
         'rl_obj': "Branding<br>2010<br><img src='./images/P_9_reddot.svg'>",
-        'dsc_obj': "<b>Description</b><br>9 o’clock 브랜드는 AM 9시부터 PM 9시까지의 영업시간에 맞춘<br>디자인 시스템이 특징이다.",
+        'dsc_obj': "<b>Description</b><br>9 o’clock 브랜드는 AM 9시부터 PM 9시까지의 영업시간에 맞춘 디자인 시스템이 특징이다.",
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Kiyoung Jung<br><b>Design:</b> Yuri Ahn, Kiyoung Jung",
 
         'img_obj_1': {
@@ -362,7 +362,7 @@ var portfolios_info = {
 
         'tt_obj' : "Nana6 project",
         'rl_obj': "Editorial design<br>2010",
-        'dsc_obj': "<b>Description</b><br>한국 디자인계의 정체성을 탐구하기 위한 프로젝트로 11명의 작가와<br>디자이너가 초대되었고, 이 책은 그 만남의 기록이다.",
+        'dsc_obj': "<b>Description</b><br>한국 디자인계의 정체성을 탐구하기 위한 프로젝트로 11명의 작가와 디자이너가 초대되었고, 이 책은 그 만남의 기록이다.",
         'nm_obj': "<b>Planning:</b> Sangsoo Ahn, Sangdo Kim, Haecheon Park<br><b>Design:</b> Yuri Ahn, Liling Hwang, Hyewon Min, Hayan Park, Minyoung Yu<br><b>Art director:</b> Chansin Park<br><b>Editor:</b> Guhong Min",
 
         'img_obj_1': {
@@ -494,7 +494,7 @@ var portfolios_info = {
 
         'tt_obj' : "Suabow",
         'rl_obj': "Branding, Character<br>2008",
-        'dsc_obj': "<b>Description</b><br>Suabow는 수(水)+Rainbow의 합성어로 비타민 워터 브랜드이다.<br>'W'에서 연계된 다양한 캐릭터들은 제품의 효능을 대변한다.",
+        'dsc_obj': "<b>Description</b><br>Suabow는 수(水) & Rainbow의 합성어로 비타민 워터 브랜드이다. 'W'에서 연계된 다양한 캐릭터들은 제품의 효능을 대변한다.",
         'nm_obj': "<b>Design:</b> Yuri Ahn",
 
         'img_obj_1': {
