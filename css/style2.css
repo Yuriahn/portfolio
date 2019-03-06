@@ -135,13 +135,27 @@ body {
     display: inline-block;
 }
 
-@media screen and (min-width:415px) and (max-width:768px) {
+@media screen and (min-width:768px) and (max-width:1024px) {
     .desc {
         float: left;
         margin-left: 10%;
         margin-top: 60px;
         margin-bottom: 100px;
         width: 550px;
+        font-size: 16px;
+        line-height: 26px;
+        color: #606266;
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width:415px) and (max-width:767px) {
+    .desc {
+        float: left;
+        margin-left: 10%;
+        margin-top: 60px;
+        margin-bottom: 100px;
+        width: 350px;
         font-size: 16px;
         line-height: 26px;
         color: #606266;
