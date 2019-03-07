@@ -9,7 +9,7 @@ var portfolios_info = {
 
         'tt_obj' : "Taste of Book",
         'rl_obj': "UX/UI design, Branding<br>2019<br>IOS App. Coming soon",
-        'dsc_obj': "<b>Description</b><br>책에서 페이지를 사진 찍으면 텍스트로 변환되어 문장을 수집할 수 있는 서비스이다. 인상깊은 구절을 저장하여 간직할 수 있다.",
+        'dsc_obj': "<b>Description</b><br>'책의 문장을 담는 그릇'이란 콘셉트로, 인상깊은 책의 구절을 사진으로 찍으면 텍스트로 변환되어 문장을 수집할 수 있다.",
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UX Design:</b> Yuri Ahn, Jeongwoo Ahn, Yoonhong Min<br><b>UI Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Yoonhong Min, Jeongwoo Ahn<br><b>Back-end programming:</b>  Jeongwoo Ahn, Yoonhong Min",
 
         'img_obj_1': {
@@ -58,15 +58,15 @@ var portfolios_info = {
         'nm_obj': "<b>Planning:</b> Yuri Ahn, Jeongwoo Ahn<br><b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn<br><br><a style='color: #303133'; href='https://woo-u.github.io/milkui/#/' target='_blank'>View UI Library</a>",
         
         'img_obj_1': {
-            'src': './images/P_mu_01.svg',
+            'src': './images/P_mu_01.png',
             'style': 'margin-top: 0;'
         },
         'img_obj_2': {
-            'src': './images/P_mu_02.svg',
+            'src': './images/P_mu_02.png',
             'style': 'margin-top: -5px;'
         },
         'img_obj_3': {
-            'src': './images/P_mu_03.svg',
+            'src': './images/P_mu_03.png',
             'style': 'margin-top: -5px;'
         },
         'img_obj_4': {
@@ -149,23 +149,23 @@ var portfolios_info = {
         'nm_obj': "<b>Design:</b> Yuri Ahn<br><b>Front-end programming:</b> Jeongwoo Ahn, Sanghwan Jeon<br><b>Back-end programming:</b> Yoonhong Min, Sanghwan Jeon<br><b>UX planning:</b> Soyeon Kwon<br><b>Product managing:</b> Jihyun Lim<br><br><a style='color: #303133'; href='https://newsjelly.github.io/mtui/#/' target='_blank'>View UI Library</a><br><a style='color: #303133'; href='https://www.magictbl.com/' target='_blank'>View Website</a>",
 
         'img_obj_1': {
-            'src': './images/P_mt_01.svg',
+            'src': './images/P_mt_01.png',
             'style': 'margin-top: 50px;'
         },
         'img_obj_2': {
-            'src': './images/P_mt_02.svg',
+            'src': './images/P_mt_02.png',
             'style': 'margin-top: -5px;'
         },
         'img_obj_3': {
-            'src': './images/P_mt_03.svg',
+            'src': './images/P_mt_03.png',
             'style': 'margin-top: -5px;'
         },
         'img_obj_4': {
-            'src': './images/P_mt_04.svg',
+            'src': './images/P_mt_04.png',
             'style': 'margin-top: -5px;'
         },
         'img_obj_5': {
-            'src': './images/P_mt_05.svg',
+            'src': './images/P_mt_05.png',
             'style': 'margin-top: -5px;'
         },
         'img_obj_6': {
@@ -502,7 +502,7 @@ var portfolios_info = {
             'style': 'margin-top: 100px; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_2': {
-            'src': './images/P_SB_02.png',
+            'src': './images/P_SB_03.png',
             'style': 'margin-top: -6px; width: 100%; margin-left: 0; margin-right: 0;'
         },
         'img_obj_3': {
